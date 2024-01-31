@@ -1,0 +1,2900 @@
+{
+	username: "QuantumQuesterX",
+	inventory: {
+		equiped: {
+			weapon: "magma lash",
+			skill: "fireball",
+			consumable: "radiant elixir",
+			head: "divine paladin's helm",
+			torso: "druid's robe",
+			arms: "shadow assassin's gloves",
+			legs: "ancient guardian's greaves",
+			feet: "inquisitor's boots"
+		},
+		backpack: [
+			["stormbringer's sigil", 'whispering totem', 'mirror of illusion', "stormbringer's sigil", 'serenity stone', 'crimson phoenix plume', 'enigmatic figurine', 'frostblossom seed', 'hand mirror', 'enchanted amulet', 'shadow cloak', 'enchanted amulet', 'shadow silk scarf', 'nebula medallion', 'celestial lantern', 'shrouded talisman', 'aetheric beacon', 'enigmatic figurine', 'celestial lantern', 'soulstone trinket', 'starlight veil', 'rusty spoon', 'cursed doll', 'astral ribbon', 'resonating crystal', 'labyrinthine key', 'puzzle piece', "tiger's eye", 'silver locket', 'ember veil', 'elemental shard', 'rune of resilience', 'harmonic conch shell', 'eclipsed crystal', 'enigmatic crest', 'tranquil lotus', 'starforged ingot', 'crystalline vessel', 'lively coral', 'bottle of wine', 'cursed mirror', 'moonlit essence', 'starforged ingot', 'solar flare seed', 'penumbral pendant', 'lava bloom seed', 'arcane codex', "tiger's eye"]
+		]
+	},
+	health: 79,
+	stamina: 101,
+	armor: 171,
+	mastery: {
+		weapon: 10,
+		skill: 17
+	},
+	savepoint: {
+		location: "divine citadel",
+		date: Date()
+	}
+},
+{
+	username: "NeonNebulaX88",
+	inventory: {
+		equiped: {
+			weapon: "phantasmal dagger",
+			skill: "frost nova",
+			consumable: "sparkling cider",
+			head: "warrior's helm",
+			torso: "The honored one's jacket",
+			arms: "ranger's gloves",
+			legs: "duelist's trousers",
+			feet: "ancient guardian's boots"
+		},
+		backpack: [
+			[]
+		]
+	},
+	health: 228,
+	stamina: 169,
+	armor: 141,
+	mastery: {
+		weapon: 21,
+		skill: 28
+	},
+	savepoint: {
+		location: "miner's retreat",
+		date: Date()
+	}
+},
+{
+	username: "MysticMatrixX77",
+	inventory: {
+		equiped: {
+			weapon: "celestial sword",
+			skill: "corrosive cloud",
+			consumable: "dragon's blood elixir",
+			head: "sellsword's helm",
+			torso: "divine paladin's chestplate",
+			arms: "ranger's gloves",
+			legs: "druid's leggings",
+			feet: "elemental sorcerer's shoes"
+		},
+		backpack: [
+			['ethereal prism', 'zephyr gem', 'half eaten apple', 'shrouded talisman', 'frostfire lantern', 'mirage cloak', 'verdant blossom', 'ember veil', 'phoenix feather', 'metal slinky', 'camera', 'radiant prism', 'silver locket', 'pyroclasmic ember', 'moonlit essence', 'lunar crest', 'rainbow gemstone', 'radiant feather', 'lunar blossom', 'frostblossom seed']
+		]
+	},
+	health: 62,
+	stamina: 132,
+	armor: 145,
+	mastery: {
+		weapon: 24,
+		skill: 29
+	},
+	savepoint: {
+		location: "cursed cathedral",
+		date: Date()
+	}
+},
+{
+	username: "ShadowSphinx77",
+	inventory: {
+		equiped: {
+			weapon: "venomous crossbow",
+			skill: "flame shield",
+			consumable: "thunderberry pie",
+			head: "knight-commander's helmet",
+			torso: "wanderer's coat",
+			arms: "assassin's gloves",
+			legs: "yggdrasil's leggings",
+			feet: "sorcerer's shoes"
+		},
+		backpack: [
+			['aetheric beacon', 'astral ribbon', 'fox tail', 'soulstone trinket', 'frostbound blossom', 'puzzle piece', 'moonlit essence', 'soothing breeze amulet', 'broken compass', 'arcane codex', 'astral ribbon', 'rainbow gemstone', 'prismatic crystal', 'crystalized tears', 'emberstone charm', 'dreamcatcher amulet']
+		]
+	},
+	health: 133,
+	stamina: 206,
+	armor: 136,
+	mastery: {
+		weapon: 30,
+		skill: 7
+	},
+	savepoint: {
+		location: "frozen fortress",
+		date: Date()
+	}
+},
+{
+	username: "CyberCrafterX",
+	inventory: {
+		equiped: {
+			weapon: "plasma edge",
+			skill: "glacial shard",
+			consumable: "crimson elixir",
+			head: "duelist's hat",
+			torso: "divine paladin's chestplate",
+			arms: "tyr's gauntlets",
+			legs: "assassin's leggings",
+			feet: "divine paladin's boots"
+		},
+		backpack: [
+			['serene lotus petal', 'puzzle piece', 'crystalline vessel', 'mirage pearl', 'astral serpent scale', 'luminous pebble', 'radiant prism', 'enigmatic crest', 'serene lotus petal', 'lunar blossom', "stargazer's lens", 'aetherial lens', 'shadow silk scarf', 'emberroot sapling', 'ensnaring vine', 'lava bloom seed', 'celestial feather', 'rusty spoon', 'soulstone trinket', 'arcane codex', 'frostfallen relic', 'timeless relic', 'mystic orb']
+		]
+	},
+	health: 79,
+	stamina: 237,
+	armor: 188,
+	mastery: {
+		weapon: 26,
+		skill: 8
+	},
+	savepoint: {
+		location: "frozen fortress",
+		date: Date()
+	}
+},
+{
+	username: "NovaNebulaMaster",
+	inventory: {
+		equiped: {
+			weapon: "shadowmeld blade",
+			skill: "scorching whirlwind",
+			consumable: "void essence",
+			head: "archer's hat",
+			torso: "druid's robe",
+			arms: "tyr's gauntlets",
+			legs: "paladin's greaves",
+			feet: "necromancer's boots"
+		},
+		backpack: [
+			['emberstone charm', 'lunar lace', 'lively coral', 'rune of resilience', 'astral lantern', 'solar flare seed', 'radiant prism', 'rune of resilience', 'moonlit essence', 'starforged ingot', 'luminous pebble', 'arcane rune', 'solar flare seed', 'solar flare seed', "songbird's feather", 'cursed mirror', 'sacred sigil', 'enchanted vellum', 'ethereal blossom', 'verdant blossom', 'crystalline vessel', 'singing seashell', "tidecaller's shell", 'astral lantern', 'timeless hourglass', 'lunar crest', 'obsidian rune stone', 'metal slinky', "stormbringer's sigil", 'astral serpent scale', ' rubiks cube', 'ethereal prism', 'enigmatic crest', 'crystalized essence', 'resonating crystal', 'frostfallen relic', 'whispering totem', 'mystic orb', 'puzzle piece', 'resonating crystal', 'bottle of wine', 'emberroot sapling', 'enigmatic crest', 'half eaten apple', 'celestial lantern', 'celestial ocarina', "stargazer's lens", 'enigmatic scroll']
+		]
+	},
+	health: 127,
+	stamina: 109,
+	armor: 165,
+	mastery: {
+		weapon: 30,
+		skill: 7
+	},
+	savepoint: {
+		location: "miner's retreat",
+		date: Date()
+	}
+},
+{
+	username: "NeonNinjaX21",
+	inventory: {
+		equiped: {
+			weapon: "time-bender's scythe",
+			skill: "noxious wave",
+			consumable: "quicksilver elixir",
+			head: "alchemist's hood",
+			torso: "divine paladin's chestplate",
+			arms: "paladin's gauntlets",
+			legs: "knight's greaves",
+			feet: "knight's boots"
+		},
+		backpack: [
+			['shimmering scepter', 'enigmatic scroll', "stargazer's lens", 'obsidian rune stone', 'ephemeral feather', 'aetherial lens', 'vortex core', 'ruby heartstone', 'enigmatic scroll', 'nebula medallion', 'lava bloom seed', 'ember veil', "tidecaller's shell", 'lunar blossom', 'crystalized essence', 'aetheric beacon', 'singing seashell', 'celestial feather', 'science fair award', 'stormwhisper feather', 'hand mirror']
+		]
+	},
+	health: 239,
+	stamina: 135,
+	armor: 142,
+	mastery: {
+		weapon: 4,
+		skill: 27
+	},
+	savepoint: {
+		location: "miner's retreat",
+		date: Date()
+	}
+},
+{
+	username: "MysticMonarch77",
+	inventory: {
+		equiped: {
+			weapon: "thorned whip",
+			skill: "storm nova",
+			consumable: "venomous brew",
+			head: "rogue's mask",
+			torso: "inquisitor's vestment",
+			arms: "knight-commander's gauntlets",
+			legs: "warrior's legplates",
+			feet: "divine paladin's boots"
+		},
+		backpack: [
+			['half eaten apple', 'shimmering scepter', 'singing seashell', 'volcanic emberstone', 'crystalized aurora', 'penumbral pendant', 'aetheric beacon', 'serene lotus petal', 'frostfallen relic', 'volcanic emberstone', 'solar flare seed', "stargazer's lens", 'sylphic whisper', 'harmonic conch shell', 'illusory lantern', 'ember veil', "tidecaller's shell", 'harmony crystal', 'thunderstruck relic', 'eclipsed crystal', 'half eaten apple', 'harmonic conch shell', 'mirage pearl', 'harmony crystal', 'harmony crystal', 'galeforce whistle', 'moonlit essence', 'gilded compass', 'cavernous gemstone', 'astral ribbon', 'galeforce whistle', 'cursed mirror', 'amethyst', 'arcane rune', 'astral lantern', 'metal slinky', 'solar flare seed']
+		]
+	},
+	health: 61,
+	stamina: 216,
+	armor: 156,
+	mastery: {
+		weapon: 3,
+		skill: 16
+	},
+	savepoint: {
+		location: "oasis of echoes",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuasarX",
+	inventory: {
+		equiped: {
+			weapon: "lava axe",
+			skill: "plague burst",
+			consumable: "ironskin elixir",
+			head: "shadow assassin's mask",
+			torso: "mystic seer's robe",
+			arms: "sellsword's gauntlets",
+			legs: "mage's leggings",
+			feet: "knight's boots"
+		},
+		backpack: [
+			['lunar lace', 'science fair award', 'astral ribbon', 'half eaten apple', 'ember veil', 'frostblossom seed', 'metal slinky', 'galeforce whistle', 'pyroclasmic ember', 'tranquil lotus', 'illusory lantern', 'shadow silk scarf', 'shadow cloak', 'resonating crystal', 'crimson phoenix plume', 'singing seashell', 'ruby heartstone', 'bottle of wine', 'rubber chicken', 'mirage pearl', 'illusory lantern', 'radiant prism', 'ethereal prism', 'shadow cloak', 'starlight veil', 'lava bloom seed', 'aetheric beacon', 'lively coral', 'echoing chime', 'sacred sigil', 'radiant prism', 'frostblossom seed', 'astral lantern', 'thunderstruck relic', 'pyroclasmic ember', 'sylphic whisper', 'invisible ink pen', 'hand mirror', 'half eaten apple', 'lunar crest', 'moonlit essence', 'arcane codex', 'emberstone charm', 'echoing chime', 'ember veil', 'ensnaring vine', 'radiant feather', 'galeforce whistle', 'silver locket']
+		]
+	},
+	health: 193,
+	stamina: 209,
+	armor: 134,
+	mastery: {
+		weapon: 0,
+		skill: 6
+	},
+	savepoint: {
+		location: "oasis of mirages",
+		date: Date()
+	}
+},
+{
+	username: "NebulaNemesis88",
+	inventory: {
+		equiped: {
+			weapon: "lunar blaster cannon",
+			skill: "hardening lava",
+			consumable: "dexterity potion",
+			head: "The honored one's blindfold",
+			torso: "sellsword's chestguard",
+			arms: "knight-commander's gauntlets",
+			legs: "elementalist's leggings",
+			feet: "The honored one's boots"
+		},
+		backpack: [
+			['pyroclasmic ember', 'ethereal blossom', 'aetheric beacon', 'frostblossom seed', 'nebula medallion', 'rainbow gemstone', 'enigmatic crest', 'gilded compass', 'celestial lantern', 'arcane codex', 'ruby heartstone', 'astral ribbon', 'science fair award', "dreamer's journal", 'silver locket', 'echoing chime', 'frostbound blossom', 'lunar blossom', 'fox tail', 'labyrinthine key', 'emberroot sapling', 'nebula medallion', 'crystalline vessel', 'timeless relic', 'broken compass', "tiger's eye", 'shimmering scepter', 'solar flare seed', 'thunderstruck relic', 'ember veil', 'lava bloom seed']
+		]
+	},
+	health: 172,
+	stamina: 200,
+	armor: 144,
+	mastery: {
+		weapon: 30,
+		skill: 9
+	},
+	savepoint: {
+		location: "lunar sanctuary",
+		date: Date()
+	}
+},
+{
+	username: "CyberShadowX21",
+	inventory: {
+		equiped: {
+			weapon: "lunar blaster cannon",
+			skill: "solar flare",
+			consumable: "soulstone soup",
+			head: "alchemist's hood",
+			torso: "archer's tunic",
+			arms: "archer's gloves",
+			legs: "assassin's leggings",
+			feet: "warrior's boots"
+		},
+		backpack: [
+			['enigmatic figurine', 'solar flare seed', 'hand mirror', 'frostbound blossom', 'pyroclasmic ember', 'cursed doll', 'gilded compass', 'astral serpent scale', 'harmony crystal', 'solar flare seed', 'pyroclasmic ember', 'cursed mirror', 'serene lotus petal', 'emberroot sapling', 'lunar blossom', 'ruby heartstone', 'soulstone trinket', 'shimmering scepter', 'enigmatic scroll', 'crystalized tears', 'serene lotus petal', 'enigmatic figurine', 'rainbow gemstone', 'ensnaring vine', 'timeless hourglass', 'echoing chime', 'silver locket', 'elemental shard', 'moonlit essence', 'sylphic whisper', 'shadow cloak', 'serenity stone', 'stormwhisper feather', 'rubber chicken', 'crimson phoenix plume', 'mirror of illusion', 'verdant blossom', 'ethereal mirror', 'enchanted vellum', 'amethyst']
+		]
+	},
+	health: 97,
+	stamina: 206,
+	armor: 118,
+	mastery: {
+		weapon: 17,
+		skill: 6
+	},
+	savepoint: {
+		location: "cursed cathedral",
+		date: Date()
+	}
+},
+{
+	username: "NovaNexusX77",
+	inventory: {
+		equiped: {
+			weapon: "samurai's katana",
+			skill: "fireball",
+			consumable: "cosmic cake",
+			head: "shadow assassin's mask",
+			torso: "necromancer's cloak",
+			arms: "rogue's fingerless gloves",
+			legs: "mage's leggings",
+			feet: "necromancer's boots"
+		},
+		backpack: [
+			['sylphic whisper', 'singing seashell', 'rusty spoon', 'gilded compass', 'shadow cloak', 'gilded compass', 'luminous pebble', 'amethyst', "stormbringer's sigil", 'vortex core', "tidecaller's shell", 'crystalized aurora', 'emberroot sapling']
+		]
+	},
+	health: 237,
+	stamina: 238,
+	armor: 114,
+	mastery: {
+		weapon: 29,
+		skill: 7
+	},
+	savepoint: {
+		location: "tempest summit",
+		date: Date()
+	}
+},
+{
+	username: "NeonNovaX88",
+	inventory: {
+		equiped: {
+			weapon: "vortex gauntlets",
+			skill: "tectonic trap",
+			consumable: "steak",
+			head: "rogue's mask",
+			torso: "alchemist's robe",
+			arms: "rogue's fingerless gloves",
+			legs: "beastmaster's leggings",
+			feet: "elemental sorcerer's shoes"
+		},
+		backpack: [
+			['astral lantern', 'obsidian rune stone', 'aetheric beacon', "tidecaller's shell", 'prismatic crystal', 'lunar blossom', 'aetherial lens', 'rubber chicken', 'harmony crystal', 'mirage pearl', ' rubiks cube', 'camera', 'enigmatic scroll', 'ethereal prism', 'shadow cloak', 'ruby heartstone']
+		]
+	},
+	health: 72,
+	stamina: 157,
+	armor: 125,
+	mastery: {
+		weapon: 16,
+		skill: 24
+	},
+	savepoint: {
+		location: "boggy haven",
+		date: Date()
+	}
+},
+{
+	username: "MysticMystic77",
+	inventory: {
+		equiped: {
+			weapon: "stellar blaster",
+			skill: "poison dart",
+			consumable: "bison steak",
+			head: "warrior's helm",
+			torso: "ancient guardian's armor",
+			arms: "shadow assassin's gloves",
+			legs: "mage's leggings",
+			feet: "The honored one's boots"
+		},
+		backpack: [
+			['lunar crest', 'bottle of wine', 'soothing breeze amulet', 'celestial feather', "stormbringer's sigil", 'mirror of illusion', 'astral lantern', 'elemental shard', 'astral lantern', "tidecaller's shell", 'rainbow gemstone', 'illusory lantern', 'solar flare seed', 'rune of resilience', 'vortex core', 'tranquil lotus']
+		]
+	},
+	health: 57,
+	stamina: 194,
+	armor: 147,
+	mastery: {
+		weapon: 6,
+		skill: 9
+	},
+	savepoint: {
+		location: "haunted harbor",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuintessenceX",
+	inventory: {
+		equiped: {
+			weapon: "frostbite fang",
+			skill: "tempest tornado",
+			consumable: "tea",
+			head: "null",
+			torso: "rogue's leather vest",
+			arms: "wanderer's gloves",
+			legs: "The honored one's pants",
+			feet: "assassin's boots"
+		},
+		backpack: [
+			['radiant feather', 'fox tail', 'timeless hourglass', "tiger's eye", 'frostblossom seed']
+		]
+	},
+	health: 77,
+	stamina: 229,
+	armor: 81,
+	mastery: {
+		weapon: 28,
+		skill: 8
+	},
+	savepoint: {
+		location: "elven village",
+		date: Date()
+	}
+},
+{
+	username: "CyberCatalyst77",
+	inventory: {
+		equiped: {
+			weapon: "ethereal slicer",
+			skill: "eclipse burst",
+			consumable: "invisibility potion",
+			head: "sellsword's helm",
+			torso: "knight's plate armor",
+			arms: "null",
+			legs: "archer's pants",
+			feet: "beastmaster's boots"
+		},
+		backpack: [
+			['serenity stone', 'starforged ingot', 'camera', 'shadow silk scarf', "dreamer's journal", 'mirage pearl', ' rubiks cube', 'arcane rune', 'broken compass', 'mysterious music box', 'lava bloom seed', 'crystalized aurora', 'celestial feather', 'shadow cloak', 'amethyst', 'frostfire lantern', 'camera', 'rusty spoon', 'aetherial lens', 'science fair award', 'soulstone trinket', 'metal slinky', 'invisible ink pen', 'broken compass', 'camera', 'serenity stone', 'bottle of wine', 'enchanted amulet', 'mysterious music box', "writer's notebook", 'harmonic conch shell', 'mysterious music box', 'serene lotus petal', 'frostfire lantern', 'amethyst', 'thunderstruck relic', "dreamweaver's quill", 'zephyr gem', "writer's notebook", 'lively coral', "dreamweaver's quill", 'starlight veil', 'lunar blossom', 'crimson phoenix plume', 'fox tail', 'shadow silk scarf', 'camera', 'echoing chime', 'puzzle piece']
+		]
+	},
+	health: 132,
+	stamina: 148,
+	armor: 117,
+	mastery: {
+		weapon: 20,
+		skill: 10
+	},
+	savepoint: {
+		location: "time-worn sanctuary",
+		date: Date()
+	}
+},
+{
+	username: "NovaNomadX21",
+	inventory: {
+		equiped: {
+			weapon: "ruby scimitar",
+			skill: "celestial beam",
+			consumable: "amber ale",
+			head: "elemental sorcerer's hat",
+			torso: "knight-commander's plate",
+			arms: "mystic seer's gloves",
+			legs: "necromancer's pants",
+			feet: "divine paladin's boots"
+		},
+		backpack: [
+			["tidecaller's shell", 'starforged ingot', 'cursed mirror', 'rainbow gemstone', 'rune of resilience', 'mysterious music box', 'resonating crystal', 'serene lotus petal', "stargazer's lens", 'ephemeral feather', 'arcane rune', 'volcanic emberstone', 'shadow cloak', "tidecaller's shell", 'ethereal prism', 'mirror of illusion', 'amethyst', 'eclipsed crystal', 'echoing chime', 'ephemeral feather', 'elemental shard', 'penumbral pendant', 'ethereal mirror', 'enigmatic crest', 'pyroclasmic ember', 'tranquil lotus', 'volcanic emberstone', 'enchanted vellum', 'thunderstruck relic', 'aetherial lens', "tiger's eye", 'nebula medallion', 'celestial ocarina', 'starforged ingot']
+		]
+	},
+	health: 105,
+	stamina: 168,
+	armor: 167,
+	mastery: {
+		weapon: 17,
+		skill: 3
+	},
+	savepoint: {
+		location: "stormwatch tower",
+		date: Date()
+	}
+},
+{
+	username: "ShadowSaberX88",
+	inventory: {
+		equiped: {
+			weapon: "stormcaller whip",
+			skill: "glacial shard",
+			consumable: "astral ambrosia",
+			head: "mystic seer's hood",
+			torso: "sorcerer's robe",
+			arms: "knight-commander's gauntlets",
+			legs: "elementalist's leggings",
+			feet: "rogue's ankle boots"
+		},
+		backpack: [
+			['arcane rune', 'enigmatic crest', 'emberstone charm', 'ethereal mirror', 'gilded compass', 'fox tail', 'frostblossom seed', 'singing seashell', 'shadow cloak', 'phoenix feather', 'mirror of illusion', ' rubiks cube', 'galeforce whistle', 'soothing breeze amulet', 'sylphic whisper', 'whisperwind elixir', 'vortex core', 'lunar crest', 'frostfire lantern', 'crystalized essence', ' rubiks cube', 'enigmatic scroll', 'luminous pebble', 'aetheric beacon', 'stormwhisper feather', 'timeless relic', 'lunar blossom', 'pyroclasmic ember', 'camera', 'silver locket', 'radiant prism']
+		]
+	},
+	health: 83,
+	stamina: 170,
+	armor: 127,
+	mastery: {
+		weapon: 27,
+		skill: 14
+	},
+	savepoint: {
+		location: "stardust grove",
+		date: Date()
+	}
+},
+{
+	username: "MysticMatrixMaster",
+	inventory: {
+		equiped: {
+			weapon: "fire whip",
+			skill: "charged dash",
+			consumable: "venomous brew",
+			head: "druid's crown",
+			torso: "sellsword's chestguard",
+			arms: "inquisitor's cuffs",
+			legs: "ancient guardian's greaves",
+			feet: "duelist's shoes"
+		},
+		backpack: [
+			["stormbringer's sigil", 'serenity stone', 'stormwhisper feather', 'sylphic whisper', 'invisible ink pen', 'balloon animal', 'science fair award', 'puzzle piece', 'cursed mirror', 'arcane codex', 'arcane codex', "tiger's eye", 'crystalized tears', "dreamweaver's quill", "stormbringer's sigil", 'phoenix feather', 'ember veil', 'invisible ink pen', 'astral serpent scale', 'pyroclasmic ember', 'enigmatic figurine', 'serenity stone']
+		]
+	},
+	health: 215,
+	stamina: 182,
+	armor: 155,
+	mastery: {
+		weapon: 13,
+		skill: 9
+	},
+	savepoint: {
+		location: "mystic glade",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuakeX21",
+	inventory: {
+		equiped: {
+			weapon: "polar spear thrower",
+			skill: "electrified arrow",
+			consumable: "angel's grace potion",
+			head: "assassin's hood",
+			torso: "thor's chainmail",
+			arms: "assassin's gloves",
+			legs: "elemental sorcerer's pants",
+			feet: "ranger's boots"
+		},
+		backpack: [
+			['whisperwind elixir', 'harmonic conch shell', 'timeless hourglass', 'penumbral pendant', 'enigmatic crest', 'mystic orb', 'silver locket', 'enigmatic scroll', 'elemental shard', 'verdant blossom', 'solar flare seed', 'aetherial lens', 'dreamcatcher amulet', 'frostblossom seed', 'stormwhisper feather', 'lunar blossom', "dreamweaver's quill", 'broken compass', 'ethereal prism', 'solar flare seed', 'frostblossom seed', 'frostfallen relic', 'rusty spoon', 'crimson phoenix plume', 'arcane rune', 'gilded compass', 'verdant dreamcatcher', 'serenity stone', 'enchanted vellum', 'baseball cap', 'penumbral pendant', 'rusty spoon', 'lava bloom seed', 'nebula medallion', 'lunar lace', 'crystalline vessel', 'shrouded talisman', 'eclipsed crystal', 'puzzle piece', 'sylphic whisper', 'radiant feather', 'timeless relic', 'astral ribbon', 'crystalized tears', 'enigmatic crest', 'phoenix feather', "tidecaller's shell"]
+		]
+	},
+	health: 68,
+	stamina: 197,
+	armor: 140,
+	mastery: {
+		weapon: 10,
+		skill: 9
+	},
+	savepoint: {
+		location: "celestial junction",
+		date: Date()
+	}
+},
+{
+	username: "NovaNebulaX88",
+	inventory: {
+		equiped: {
+			weapon: "serpent's gaze staff",
+			skill: "toxic shock",
+			consumable: "sweet pastry",
+			head: "The honored one's blindfold",
+			torso: "monk's robe",
+			arms: "elementalist's cuffs",
+			legs: "shadow assassin's pants",
+			feet: "mage's shoes"
+		},
+		backpack: [
+			['radiant feather', "stormbringer's sigil", 'crystalline vessel', 'fox tail', 'rubber chicken', 'ruby heartstone', 'thunderstruck relic', 'crystalized aurora', 'ethereal prism', 'aetheric beacon', 'sylphic whisper', 'penumbral pendant', 'frostblossom seed', 'nebula medallion', 'ensnaring vine', "tidecaller's shell", 'fox tail', 'whisperwind elixir', 'lively coral', 'thunderstruck relic', 'crimson phoenix plume', 'crystalline vessel', "writer's notebook", 'sylphic whisper', 'tranquil lotus', 'gilded compass', "dreamer's journal", 'cursed doll', 'celestial ocarina', 'emberroot sapling', 'pyroclasmic ember', 'dreamcatcher amulet', 'enigmatic figurine', "writer's notebook", 'crystalized aurora', "dreamer's journal", 'mirror of illusion', 'bottle of wine', 'crystalized tears', 'shrouded talisman', 'ruby heartstone', 'half eaten apple', 'fox tail', 'thunderstruck relic', 'camera', 'enigmatic figurine', 'volcanic emberstone']
+		]
+	},
+	health: 144,
+	stamina: 248,
+	armor: 122,
+	mastery: {
+		weapon: 18,
+		skill: 22
+	},
+	savepoint: {
+		location: "cursed cathedral",
+		date: Date()
+	}
+},
+{
+	username: "NeonNebulaMaster",
+	inventory: {
+		equiped: {
+			weapon: "obsidian scythe",
+			skill: "toxic cloud",
+			consumable: "energy drink",
+			head: "rogue's mask",
+			torso: "null",
+			arms: "sorcerer's gloves",
+			legs: "divine paladin's greaves",
+			feet: "beastmaster's boots"
+		},
+		backpack: [
+			['serenity stone', "songbird's feather", 'starlight veil', 'lunar crest', 'harmonic conch shell', 'ethereal prism', 'lively coral', 'frostbound blossom', 'serenity stone', 'dreamcatcher amulet', 'soothing breeze amulet', 'mirage cloak', 'puzzle piece', 'mirror of illusion', 'radiant feather', 'aetheric beacon', 'frostblossom seed', 'emberroot sapling']
+		]
+	},
+	health: 206,
+	stamina: 149,
+	armor: 97,
+	mastery: {
+		weapon: 23,
+		skill: 20
+	},
+	savepoint: {
+		location: "feywood forest",
+		date: Date()
+	}
+},
+{
+	username: "CyberSphinxX21",
+	inventory: {
+		equiped: {
+			weapon: "quasar cannon",
+			skill: "arctic blast",
+			consumable: "ancient elixir",
+			head: "wanderer's hat",
+			torso: "duelist's attire",
+			arms: "divine paladin's gauntlets",
+			legs: "duelist's trousers",
+			feet: "beastmaster's boots"
+		},
+		backpack: [
+			['invisible ink pen', 'cavernous gemstone', 'ethereal mirror', 'enigmatic crest', 'serenity stone', 'shadow cloak', 'ethereal mirror', 'celestial feather', 'starlight veil', 'baseball cap', 'emberroot sapling', 'phoenix feather', 'moonlit essence', 'enigmatic scroll', "songbird's feather", 'cursed mirror', 'echoing chime', 'radiant prism', 'astral ribbon', 'ensnaring vine']
+		]
+	},
+	health: 152,
+	stamina: 203,
+	armor: 131,
+	mastery: {
+		weapon: 12,
+		skill: 30
+	},
+	savepoint: {
+		location: "cursed cathedral",
+		date: Date()
+	}
+},
+{
+	username: "MysticMonolithX77",
+	inventory: {
+		equiped: {
+			weapon: "chaos orb wand",
+			skill: "volcanic eruption",
+			consumable: "soulstone soup",
+			head: "mage's hat",
+			torso: "berserker's chestguard",
+			arms: "duelist's gloves",
+			legs: "mage's leggings",
+			feet: "ranger's boots"
+		},
+		backpack: [
+			['crystalized essence', 'ethereal blossom', 'ember veil', 'tranquil lotus', 'whispering totem', 'mysterious music box', 'frostfire lantern', 'resonating crystal', 'emberroot sapling', 'rune of resilience', 'shimmering scepter', 'puzzle piece', 'starforged ingot', 'whisperwind elixir', "stargazer's lens", 'echoing chime']
+		]
+	},
+	health: 231,
+	stamina: 244,
+	armor: 96,
+	mastery: {
+		weapon: 23,
+		skill: 18
+	},
+	savepoint: {
+		location: "volted citadel",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuestX88",
+	inventory: {
+		equiped: {
+			weapon: "starfall wand",
+			skill: "plague storm",
+			consumable: "eternal soup",
+			head: "warrior's helm",
+			torso: "The honored one's jacket",
+			arms: "paladin's gauntlets",
+			legs: "ancient guardian's greaves",
+			feet: "rogue's ankle boots"
+		},
+		backpack: [
+			['zephyr gem', 'puzzle piece', "dreamer's journal", 'echoing chime', 'hand mirror', 'mirage pearl', 'frostfire lantern', 'whisperwind elixir', 'arcane rune', 'ensnaring vine', 'pyroclasmic ember', 'phoenix feather', "stargazer's lens", 'obsidian rune stone', 'elemental shard', 'ruby heartstone', 'aetheric beacon', 'vortex core', 'mystic orb', 'ember veil', 'gilded compass', 'cavernous gemstone', 'tranquil lotus', 'astral serpent scale', 'ethereal mirror', 'harmony crystal', 'starforged ingot', 'mirror of illusion', "writer's notebook", 'shadow silk scarf']
+		]
+	},
+	health: 134,
+	stamina: 159,
+	armor: 145,
+	mastery: {
+		weapon: 8,
+		skill: 7
+	},
+	savepoint: {
+		location: "subterranean citadel",
+		date: Date()
+	}
+},
+{
+	username: "NebulaNexus77",
+	inventory: {
+		equiped: {
+			weapon: "spectral dagger",
+			skill: "poison dart",
+			consumable: "wisdom elixir",
+			head: "berserker's mask",
+			torso: "knight's plate armor",
+			arms: "warrior's bracers",
+			legs: "wanderer's pants",
+			feet: "mystic seer's shoes"
+		},
+		backpack: [
+			['camera', 'baseball cap', ' rubiks cube', 'invisible ink pen', 'elemental shard', 'stormwhisper feather', ' rubiks cube', 'stormwhisper feather', 'obsidian rune stone', 'obsidian rune stone', 'broken compass', 'astral ribbon', 'harmony crystal', 'sylphic whisper', 'silver locket', 'starlight veil', 'ruby heartstone', 'starforged ingot', 'celestial lantern', 'obsidian rune stone', 'crystalized essence', 'aetheric beacon', 'shimmering scepter', 'eclipsed crystal', 'enchanted amulet', 'rainbow gemstone', 'shimmering scepter', 'gilded compass', 'verdant dreamcatcher', 'astral ribbon', 'timeless hourglass']
+		]
+	},
+	health: 82,
+	stamina: 243,
+	armor: 136,
+	mastery: {
+		weapon: 27,
+		skill: 1
+	},
+	savepoint: {
+		location: "volted citadel",
+		date: Date()
+	}
+},
+{
+	username: "ShadowStrikeX21",
+	inventory: {
+		equiped: {
+			weapon: "toxic crossbow",
+			skill: "venom dash",
+			consumable: "venomous brew",
+			head: "monk's hood",
+			torso: "druid's robe",
+			arms: "wanderer's gloves",
+			legs: "necromancer's pants",
+			feet: "duelist's shoes"
+		},
+		backpack: [
+			['gilded compass', 'obsidian rune stone', 'sylphic whisper', 'broken compass', 'shrouded talisman', 'rusty spoon', 'cursed doll', 'balloon animal', 'obsidian rune stone', 'hand mirror', 'enigmatic crest', 'cursed doll', 'hand mirror', 'vortex core', 'crystalline vessel', 'camera', 'ethereal blossom', 'rainbow gemstone', 'enigmatic figurine', 'arcane codex', 'mystic orb', 'emberstone charm', 'radiant prism', 'serenity stone', 'starlight veil', 'solar flare seed', 'nebula medallion', "writer's notebook"]
+		]
+	},
+	health: 114,
+	stamina: 80,
+	armor: 114,
+	mastery: {
+		weapon: 17,
+		skill: 19
+	},
+	savepoint: {
+		location: "oasis of echoes",
+		date: Date()
+	}
+},
+{
+	username: "CyberChampion88",
+	inventory: {
+		equiped: {
+			weapon: "abyssal cleaver scythe",
+			skill: "noxious apocalypse",
+			consumable: "dragon's breath potion",
+			head: "null",
+			torso: "wanderer's coat",
+			arms: "druid's bracers",
+			legs: "The honored one's pants",
+			feet: "duelist's shoes"
+		},
+		backpack: [
+			['singing seashell', 'eclipsed crystal', 'obsidian rune stone', 'frostfire lantern', 'nebula medallion', 'broken compass', 'lively coral', 'enigmatic figurine', 'cavernous gemstone', 'dreamcatcher amulet', 'rune of resilience', 'crystalized essence', 'arcane rune', 'moonlit essence', 'starlight veil', 'rubber chicken', 'labyrinthine key', 'lively coral', 'sacred sigil', 'ember veil', 'hand mirror', 'singing seashell', 'invisible ink pen', 'rune of resilience', 'dreamcatcher amulet', 'ethereal blossom', "dreamer's journal", 'science fair award', 'hand mirror', 'labyrinthine key', 'galeforce whistle', 'gilded compass', 'galeforce whistle']
+		]
+	},
+	health: 61,
+	stamina: 76,
+	armor: 87,
+	mastery: {
+		weapon: 7,
+		skill: 0
+	},
+	savepoint: {
+		location: "igloosia",
+		date: Date()
+	}
+},
+{
+	username: "NovaNinjaX77",
+	inventory: {
+		equiped: {
+			weapon: "heaven's bane saber",
+			skill: "supernova",
+			consumable: "dragon's blood elixir",
+			head: "archer's hat",
+			torso: "inquisitor's vestment",
+			arms: "berserker's wristguards",
+			legs: "druid's leggings",
+			feet: "sorcerer's shoes"
+		},
+		backpack: [
+			["stargazer's lens", 'mirage pearl', 'astral ribbon', 'vortex core', 'half eaten apple', 'enchanted vellum', 'emberstone charm', 'radiant feather', 'lively coral', 'harmony crystal', 'astral lantern', 'harmony crystal']
+		]
+	},
+	health: 116,
+	stamina: 101,
+	armor: 126,
+	mastery: {
+		weapon: 10,
+		skill: 8
+	},
+	savepoint: {
+		location: "cursed cathedral",
+		date: Date()
+	}
+},
+{
+	username: "NeonNexusX21",
+	inventory: {
+		equiped: {
+			weapon: "celestial sword",
+			skill: "thunderclap",
+			consumable: "ether infusion",
+			head: "inquisitor's hood",
+			torso: "The honored one's jacket",
+			arms: "assassin's gloves",
+			legs: "wanderer's pants",
+			feet: "archer's boots"
+		},
+		backpack: [
+			['luminous pebble', 'enigmatic figurine', 'vortex core', 'starlight veil', 'starlight veil', 'phoenix feather', 'ethereal blossom', 'cursed doll', 'harmonic conch shell', 'astral ribbon', 'rainbow gemstone', 'shadow silk scarf', 'radiant feather', 'phoenix feather', 'baseball cap', 'broken compass', 'eclipsed crystal', 'verdant dreamcatcher', 'dreamcatcher amulet', 'ephemeral feather', 'shrouded talisman', 'lunar crest', 'cursed mirror', 'science fair award', 'solar flare seed', 'celestial feather', 'fox tail', 'rainbow gemstone', 'rubber chicken', 'shadow silk scarf', 'hand mirror', 'enchanted vellum', 'rubber chicken', 'timeless hourglass', 'mirage pearl', 'soothing breeze amulet', 'moonlit essence', 'crystalline vessel', 'metal slinky', 'whispering totem']
+		]
+	},
+	health: 239,
+	stamina: 72,
+	armor: 120,
+	mastery: {
+		weapon: 21,
+		skill: 22
+	},
+	savepoint: {
+		location: "haunted harbor",
+		date: Date()
+	}
+},
+{
+	username: "MysticMarauderX88",
+	inventory: {
+		equiped: {
+			weapon: "ice shard thrower",
+			skill: "storm nova",
+			consumable: "stamina potion",
+			head: "alchemist's hood",
+			torso: "elemental sorcerer's robe",
+			arms: "null",
+			legs: "berserker's legguards",
+			feet: "elemental sorcerer's shoes"
+		},
+		backpack: [
+			['invisible ink pen', 'shadow silk scarf', 'gilded compass', "dreamer's journal"]
+		]
+	},
+	health: 211,
+	stamina: 149,
+	armor: 109,
+	mastery: {
+		weapon: 16,
+		skill: 6
+	},
+	savepoint: {
+		location: "cursed cathedral",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuasarMaster",
+	inventory: {
+		equiped: {
+			weapon: "shadowstrike dagger",
+			skill: "thunderclap",
+			consumable: "wisdom elixir",
+			head: "null",
+			torso: "wanderer's coat",
+			arms: "tyr's gauntlets",
+			legs: "archer's pants",
+			feet: "inquisitor's boots"
+		},
+		backpack: [
+			['enigmatic crest', 'obsidian rune stone', 'lava bloom seed', 'ephemeral feather', 'whispering totem', 'astral serpent scale', 'starforged ingot', 'rubber chicken', 'radiant prism', 'emberroot sapling', 'mysterious music box', 'astral ribbon', "dreamer's journal", 'science fair award', 'soulstone trinket', 'serene lotus petal', 'mirage pearl', 'ethereal mirror', 'shadow silk scarf', 'amethyst', 'crystalized aurora', 'obsidian rune stone', 'illusory lantern', 'crystalized essence', 'cursed doll', 'fox tail', 'phoenix feather', "dreamer's journal", 'enchanted vellum', 'harmony crystal', 'astral serpent scale', 'lava bloom seed', 'sacred sigil', 'shrouded talisman', 'ember veil', 'singing seashell', 'bottle of wine', 'ephemeral feather', 'cursed mirror', 'ethereal mirror', 'shimmering scepter', 'vortex core']
+		]
+	},
+	health: 158,
+	stamina: 168,
+	armor: 131,
+	mastery: {
+		weapon: 8,
+		skill: 27
+	},
+	savepoint: {
+		location: "miner's retreat",
+		date: Date()
+	}
+},
+{
+	username: "CyberSpecterX77",
+	inventory: {
+		equiped: {
+			weapon: "arcane bow",
+			skill: "volcanic fury",
+			consumable: "amber ale",
+			head: "null",
+			torso: "paladin's chestplate",
+			arms: "mystic seer's gloves",
+			legs: "elemental sorcerer's pants",
+			feet: "archer's boots"
+		},
+		backpack: [
+			['emberstone charm', 'ethereal blossom', 'singing seashell', 'shrouded talisman', 'penumbral pendant', 'shrouded talisman', 'eclipsed crystal', 'moonlit essence', "tiger's eye", 'pyroclasmic ember', 'serenity stone', 'ruby heartstone', 'illusory lantern', 'ephemeral feather', 'prismatic crystal', 'tranquil lotus', 'puzzle piece', 'zephyr gem', 'balloon animal', "stargazer's lens", 'vortex core', 'puzzle piece', 'ethereal prism', 'whisperwind elixir', 'shrouded talisman', 'lunar blossom', 'fox tail', 'rune of resilience', 'solar flare seed', 'shrouded talisman', 'lunar crest', "songbird's feather", "songbird's feather", 'rubber chicken', 'elemental shard', 'mysterious music box', 'half eaten apple', 'lunar blossom', 'mystic orb', 'serenity stone']
+		]
+	},
+	health: 68,
+	stamina: 181,
+	armor: 116,
+	mastery: {
+		weapon: 24,
+		skill: 19
+	},
+	savepoint: {
+		location: "crystal spire",
+		date: Date()
+	}
+},
+{
+	username: "NovaNebulaX21",
+	inventory: {
+		equiped: {
+			weapon: "solar blaster",
+			skill: "poisonous whirl",
+			consumable: "berry explosion elixir",
+			head: "duelist's hat",
+			torso: "ranger's cloak",
+			arms: "elementalist's cuffs",
+			legs: "druid's leggings",
+			feet: "berserker's boots"
+		},
+		backpack: [
+			['ephemeral feather', "tiger's eye", "stargazer's lens", 'bottle of wine', 'serene lotus petal', 'radiant feather', "songbird's feather", 'astral lantern', "dreamweaver's quill", 'shadow cloak', 'baseball cap', 'ember veil', 'crystalized aurora', 'sacred sigil', 'moonlit essence']
+		]
+	},
+	health: 74,
+	stamina: 82,
+	armor: 112,
+	mastery: {
+		weapon: 19,
+		skill: 2
+	},
+	savepoint: {
+		location: "amethyst atoll",
+		date: Date()
+	}
+},
+{
+	username: "NeonNomadX88",
+	inventory: {
+		equiped: {
+			weapon: "flamestrike lance",
+			skill: "earthslide",
+			consumable: "mystic infusion",
+			head: "monk's hood",
+			torso: "warrior's chestplate",
+			arms: "rogue's fingerless gloves",
+			legs: "ranger's pants",
+			feet: "assassin's boots"
+		},
+		backpack: [
+			['volcanic emberstone', 'verdant dreamcatcher', 'crimson phoenix plume', 'bottle of wine', 'shrouded talisman', ' rubiks cube', 'astral ribbon', 'fox tail', 'arcane rune', 'serenity stone', 'crimson phoenix plume', 'cursed mirror', 'shrouded talisman', 'mirror of illusion', 'vortex core', 'astral lantern', 'eclipsed crystal', 'dreamcatcher amulet', 'radiant feather', 'cursed mirror', 'lunar crest', 'timeless hourglass', 'mirage pearl', 'rusty spoon']
+		]
+	},
+	health: 181,
+	stamina: 51,
+	armor: 110,
+	mastery: {
+		weapon: 9,
+		skill: 10
+	},
+	savepoint: {
+		location: "elven village",
+		date: Date()
+	}
+},
+{
+	username: "MysticMatrixX21",
+	inventory: {
+		equiped: {
+			weapon: "arcane storm sniper",
+			skill: "lunar beam",
+			consumable: "lunar nectar",
+			head: "monk's hood",
+			torso: "divine paladin's chestplate",
+			arms: "shadow assassin's gloves",
+			legs: "mage's leggings",
+			feet: "wanderer's boots"
+		},
+		backpack: [
+			["tidecaller's shell", 'starforged ingot', "stormbringer's sigil", 'harmonic conch shell', 'lava bloom seed', 'singing seashell', "dreamweaver's quill", 'half eaten apple', 'arcane codex', 'penumbral pendant', 'zephyr gem', "tidecaller's shell", 'vortex core', 'puzzle piece', 'soulstone trinket', 'rusty spoon', 'lava bloom seed', "stargazer's lens", "tidecaller's shell", 'frostbound blossom', 'cursed doll', 'lively coral', 'verdant blossom', 'sacred sigil', 'ethereal prism', 'crystalized tears', 'soothing breeze amulet', 'enchanted vellum', 'echoing chime', 'ruby heartstone', 'enchanted vellum', 'frostblossom seed', 'stormwhisper feather', 'lunar crest', "dreamweaver's quill", 'soulstone trinket', 'rainbow gemstone', 'emberstone charm', 'moonlit essence', 'ethereal mirror', 'cavernous gemstone', 'ethereal mirror', 'mirage pearl', 'stormwhisper feather', 'lunar crest', 'radiant prism', 'mirror of illusion', 'mystic orb', 'celestial feather']
+		]
+	},
+	health: 119,
+	stamina: 172,
+	armor: 131,
+	mastery: {
+		weapon: 17,
+		skill: 20
+	},
+	savepoint: {
+		location: "desolate plaza",
+		date: Date()
+	}
+},
+{
+	username: "ShadowSphinxMaster",
+	inventory: {
+		equiped: {
+			weapon: "oceanic trident",
+			skill: "thunderstrike arrow",
+			consumable: "stealthy shroom soup",
+			head: "alchemist's hood",
+			torso: "alchemist's robe",
+			arms: "wanderer's gloves",
+			legs: "The honored one's pants",
+			feet: "archer's boots"
+		},
+		backpack: [
+			['ephemeral feather', 'shadow cloak', 'eclipsed crystal', 'whispering totem', 'frostbound blossom', 'verdant dreamcatcher', 'amethyst', 'mirage cloak', 'arcane rune', 'bottle of wine', "tiger's eye", 'celestial lantern', 'whispering totem', 'mystic orb', 'emberstone charm', 'frostblossom seed', 'enigmatic figurine', "dreamweaver's quill", 'frostfallen relic', 'nebula medallion', 'whisperwind elixir', 'starforged ingot', 'starlight veil', 'crystalized aurora']
+		]
+	},
+	health: 236,
+	stamina: 101,
+	armor: 129,
+	mastery: {
+		weapon: 0,
+		skill: 20
+	},
+	savepoint: {
+		location: "desolate plaza",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuintessenceX77",
+	inventory: {
+		equiped: {
+			weapon: "necrotic serpent staff",
+			skill: "poison dart",
+			consumable: "ether infusion",
+			head: "shadow assassin's mask",
+			torso: "alchemist's robe",
+			arms: "warrior's bracers",
+			legs: "monk's pants",
+			feet: "shadow assassin's boots"
+		},
+		backpack: [
+			['balloon animal', 'crystalized tears', 'labyrinthine key', 'invisible ink pen', 'nebula medallion', 'elemental shard']
+		]
+	},
+	health: 194,
+	stamina: 154,
+	armor: 150,
+	mastery: {
+		weapon: 13,
+		skill: 2
+	},
+	savepoint: {
+		location: "tempest summit",
+		date: Date()
+	}
+},
+{
+	username: "CyberCatalystX21",
+	inventory: {
+		equiped: {
+			weapon: "arcane storm sniper",
+			skill: "lunar beam",
+			consumable: "fire resistance potion",
+			head: "sellsword's helm",
+			torso: "assassin's robe",
+			arms: "druid's bracers",
+			legs: "duelist's trousers",
+			feet: "divine paladin's boots"
+		},
+		backpack: [
+			['lively coral', 'frostblossom seed', 'penumbral pendant', 'mystic orb', 'silver locket', 'crystalized tears', 'mysterious music box', 'crystalized tears', 'mysterious music box', 'phoenix feather', 'hand mirror', 'volcanic emberstone', 'obsidian rune stone', 'rainbow gemstone', 'tranquil lotus', 'lunar blossom', 'mirror of illusion', 'harmonic conch shell', 'puzzle piece', 'elemental shard', ' rubiks cube', 'sacred sigil', 'metal slinky', 'phoenix feather', 'whispering totem', 'enchanted vellum', 'lunar lace', 'obsidian rune stone', 'elemental shard', 'fox tail', 'nebula medallion']
+		]
+	},
+	health: 206,
+	stamina: 86,
+	armor: 134,
+	mastery: {
+		weapon: 13,
+		skill: 5
+	},
+	savepoint: {
+		location: "desolate plaza",
+		date: Date()
+	}
+},
+{
+	username: "NovaNebulaX88",
+	inventory: {
+		equiped: {
+			weapon: "necrotic serpent staff",
+			skill: "icy needle",
+			consumable: "ironskin elixir",
+			head: "The honored one's blindfold",
+			torso: "alchemist's robe",
+			arms: "mystic seer's gloves",
+			legs: "ancient guardian's greaves",
+			feet: "warrior's boots"
+		},
+		backpack: [
+			['soothing breeze amulet', 'rune of resilience', 'radiant prism', 'obsidian rune stone', 'mysterious music box', 'arcane codex', 'lively coral', "stargazer's lens", 'invisible ink pen', "stargazer's lens", "writer's notebook", 'verdant blossom', 'mirror of illusion', 'rubber chicken', 'starforged ingot']
+		]
+	},
+	health: 169,
+	stamina: 119,
+	armor: 167,
+	mastery: {
+		weapon: 10,
+		skill: 8
+	},
+	savepoint: {
+		location: "inferno citadel",
+		date: Date()
+	}
+},
+{
+	username: "NeonNebulaMaster",
+	inventory: {
+		equiped: {
+			weapon: "thorned whip",
+			skill: "wind dash",
+			consumable: "thunderstorm brew",
+			head: "The honored one's blindfold",
+			torso: "alchemist's robe",
+			arms: "warrior's bracers",
+			legs: "assassin's leggings",
+			feet: "beastmaster's boots"
+		},
+		backpack: [
+			["dreamer's journal", 'rune of resilience', 'penumbral pendant', 'tranquil lotus']
+		]
+	},
+	health: 144,
+	stamina: 107,
+	armor: 134,
+	mastery: {
+		weapon: 12,
+		skill: 21
+	},
+	savepoint: {
+		location: "tempest summit",
+		date: Date()
+	}
+},
+{
+	username: "MysticMonarchX77",
+	inventory: {
+		equiped: {
+			weapon: "mindflayer's scepter",
+			skill: "shadow strike",
+			consumable: "mind elixir",
+			head: "inquisitor's hood",
+			torso: "warrior's chestplate",
+			arms: "sellsword's gauntlets",
+			legs: "sorcerer's pants",
+			feet: "paladin's boots"
+		},
+		backpack: [
+			['ruby heartstone', 'broken compass', 'whispering totem', 'mirror of illusion', 'broken compass', 'whispering totem', 'celestial feather', 'singing seashell', "stargazer's lens", 'amethyst', 'frostbound blossom', 'astral ribbon', 'broken compass', 'timeless hourglass', 'enchanted amulet', 'balloon animal', 'enchanted amulet']
+		]
+	},
+	health: 98,
+	stamina: 146,
+	armor: 138,
+	mastery: {
+		weapon: 13,
+		skill: 6
+	},
+	savepoint: {
+		location: "feywood forest",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuasarX88",
+	inventory: {
+		equiped: {
+			weapon: "shadowstrike dagger",
+			skill: "umbral fortress",
+			consumable: "sweet pastry",
+			head: "necromancer's hood",
+			torso: "druid's robe",
+			arms: "knight's gauntlets",
+			legs: "null",
+			feet: "mage's shoes"
+		},
+		backpack: [
+			['prismatic crystal', 'thunderstruck relic', 'ensnaring vine', 'soulstone trinket', 'fox tail', 'baseball cap', 'broken compass', 'soothing breeze amulet', 'science fair award', 'whisperwind elixir', 'luminous pebble', 'gilded compass', 'lava bloom seed', 'crystalized essence', 'lava bloom seed', 'baseball cap', 'elemental shard', 'half eaten apple', 'lunar lace', 'echoing chime', 'rainbow gemstone', 'metal slinky', 'astral ribbon', 'vortex core', 'whisperwind elixir', 'lively coral']
+		]
+	},
+	health: 209,
+	stamina: 126,
+	armor: 83,
+	mastery: {
+		weapon: 22,
+		skill: 12
+	},
+	savepoint: {
+		location: "igloosia",
+		date: Date()
+	}
+},
+{
+	username: "NebulaNemesis77",
+	inventory: {
+		equiped: {
+			weapon: "shadowstrike dagger",
+			skill: "shadow strike",
+			consumable: "shadowstrike tea",
+			head: "sorcerer's hat",
+			torso: "sorcerer's robe",
+			arms: "duelist's gloves",
+			legs: "druid's leggings",
+			feet: "shadow assassin's boots"
+		},
+		backpack: [
+			['mirage pearl', 'frostfallen relic', 'lava bloom seed', 'labyrinthine key', 'harmony crystal', 'frostfallen relic', 'metal slinky', 'astral serpent scale', 'luminous pebble', 'whisperwind elixir', 'enigmatic scroll', 'mirror of illusion', 'harmony crystal', 'radiant prism', 'mirage pearl']
+		]
+	},
+	health: 218,
+	stamina: 153,
+	armor: 115,
+	mastery: {
+		weapon: 13,
+		skill: 6
+	},
+	savepoint: {
+		location: "oasis of mirages",
+		date: Date()
+	}
+},
+{
+	username: "CyberShadowX21",
+	inventory: {
+		equiped: {
+			weapon: "galactic wand",
+			skill: "electrified arrow",
+			consumable: "grilled fish",
+			head: "paladin's helm",
+			torso: "rogue's leather vest",
+			arms: "null",
+			legs: "mage's leggings",
+			feet: "berserker's boots"
+		},
+		backpack: [
+			['timeless relic', 'vortex core', 'frostfire lantern', 'emberroot sapling', 'resonating crystal', 'sylphic whisper', 'aetherial lens', 'rainbow gemstone', 'verdant dreamcatcher', 'cursed mirror', 'moonlit essence', 'rainbow gemstone', 'crystalized aurora', 'rubber chicken', 'invisible ink pen', 'thunderstruck relic', 'enchanted amulet', 'rusty spoon', 'singing seashell', 'mysterious music box', 'tranquil lotus', 'hand mirror']
+		]
+	},
+	health: 93,
+	stamina: 138,
+	armor: 105,
+	mastery: {
+		weapon: 3,
+		skill: 16
+	},
+	savepoint: {
+		location: "haunted harbor",
+		date: Date()
+	}
+},
+{
+	username: "NovaNexusX88",
+	inventory: {
+		equiped: {
+			weapon: "ethereal rapier",
+			skill: "acid rain",
+			consumable: "energy drink",
+			head: "necromancer's hood",
+			torso: "assassin's robe",
+			arms: "ancient guardian's gauntlets",
+			legs: "inquisitor's leggings",
+			feet: "assassin's boots"
+		},
+		backpack: [
+			['cavernous gemstone', 'lunar lace', 'zephyr gem', 'galeforce whistle', 'shimmering scepter', 'enigmatic crest', 'invisible ink pen', 'mysterious music box', 'ethereal blossom', 'zephyr gem', 'arcane codex', "writer's notebook"]
+		]
+	},
+	health: 207,
+	stamina: 161,
+	armor: 126,
+	mastery: {
+		weapon: 3,
+		skill: 20
+	},
+	savepoint: {
+		location: "elven village",
+		date: Date()
+	}
+},
+{
+	username: "NeonNovaX77",
+	inventory: {
+		equiped: {
+			weapon: "ethereal slicer",
+			skill: "moonlit blade",
+			consumable: "grilled fish",
+			head: "assassin's hood",
+			torso: "knight-commander's plate",
+			arms: "inquisitor's cuffs",
+			legs: "elemental sorcerer's pants",
+			feet: "null"
+		},
+		backpack: [
+			['crystalized tears', 'sylphic whisper', 'soulstone trinket', "songbird's feather", 'timeless relic', 'pyroclasmic ember', 'volcanic emberstone', 'mirage cloak', 'mirror of illusion', "stargazer's lens", 'ethereal prism', 'penumbral pendant', 'frostbound blossom', 'whispering totem', 'singing seashell', 'frostbound blossom', "dreamweaver's quill", 'amethyst', 'crystalized tears', 'moonlit essence', 'ruby heartstone', 'nebula medallion', 'hand mirror', 'aetherial lens', 'rune of resilience', 'crystalized tears', ' rubiks cube', 'stormwhisper feather', 'radiant prism', 'ethereal prism', 'elemental shard', 'silver locket', 'eclipsed crystal', 'starforged ingot', 'elemental shard', 'labyrinthine key', 'frostbound blossom', 'camera']
+		]
+	},
+	health: 52,
+	stamina: 76,
+	armor: 127,
+	mastery: {
+		weapon: 21,
+		skill: 4
+	},
+	savepoint: {
+		location: "oasis of echoes",
+		date: Date()
+	}
+},
+{
+	username: "MysticMysticX21",
+	inventory: {
+		equiped: {
+			weapon: "samurai's katana",
+			skill: "wind dash",
+			consumable: "amber ale",
+			head: "wanderer's hat",
+			torso: "archer's tunic",
+			arms: "wanderer's gloves",
+			legs: "shadow assassin's pants",
+			feet: "ranger's boots"
+		},
+		backpack: [
+			['astral lantern', 'thunderstruck relic', "songbird's feather", 'crystalized tears', "writer's notebook", 'cursed mirror', 'frostblossom seed', 'illusory lantern', 'frostblossom seed', 'harmony crystal', 'crystalized tears', 'starforged ingot', 'crimson phoenix plume', 'mirage cloak', 'enigmatic crest', 'lunar crest', 'frostblossom seed', 'aetherial lens', 'rainbow gemstone']
+		]
+	},
+	health: 60,
+	stamina: 95,
+	armor: 116,
+	mastery: {
+		weapon: 29,
+		skill: 29
+	},
+	savepoint: {
+		location: "divine citadel",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuintessenceX88",
+	inventory: {
+		equiped: {
+			weapon: "crimson shuriken",
+			skill: "nightfall arrow",
+			consumable: "blueberry muffin",
+			head: "duelist's hat",
+			torso: "berserker's chestguard",
+			arms: "assassin's gloves",
+			legs: "druid's leggings",
+			feet: "knight's boots"
+		},
+		backpack: [
+			['crimson phoenix plume', "tidecaller's shell", 'illusory lantern', 'emberstone charm', 'rune of resilience', 'invisible ink pen', 'echoing chime', 'cavernous gemstone', 'lively coral', 'frostblossom seed', 'rubber chicken', 'solar flare seed', 'arcane codex', 'zephyr gem', 'verdant dreamcatcher', 'arcane codex', 'volcanic emberstone', 'lava bloom seed', 'lively coral', 'stormwhisper feather', 'ephemeral feather', 'shadow silk scarf', 'lunar crest', 'enchanted vellum', 'starforged ingot', 'rusty spoon', 'frostfire lantern', 'astral ribbon', 'frostbound blossom']
+		]
+	},
+	health: 239,
+	stamina: 142,
+	armor: 112,
+	mastery: {
+		weapon: 9,
+		skill: 12
+	},
+	savepoint: {
+		location: "elven village",
+		date: Date()
+	}
+},
+{
+	username: "CyberCatalyst77",
+	inventory: {
+		equiped: {
+			weapon: "volcano bow",
+			skill: "cyclone step",
+			consumable: "shadow essence",
+			head: "sorcerer's hat",
+			torso: "druid's robe",
+			arms: "monk's gloves",
+			legs: "mage's leggings",
+			feet: "warrior's boots"
+		},
+		backpack: [
+			['volcanic emberstone', 'camera', 'celestial feather', "stormbringer's sigil", 'puzzle piece', 'volcanic emberstone', 'frostfallen relic', 'rune of resilience', 'sacred sigil', 'prismatic crystal', 'ruby heartstone', 'mystic orb', 'verdant blossom', "tidecaller's shell", 'hand mirror', 'camera', 'invisible ink pen', 'verdant dreamcatcher', 'emberstone charm', 'mirror of illusion', 'astral ribbon', 'hand mirror', "dreamer's journal", 'shadow silk scarf', 'arcane rune', 'astral serpent scale', 'luminous pebble', 'ember veil', 'cavernous gemstone', 'whispering totem', 'echoing chime', 'galeforce whistle', 'gilded compass', 'ethereal blossom', 'whisperwind elixir', 'enchanted vellum', 'astral lantern', 'rubber chicken', 'enigmatic figurine', 'frostblossom seed', 'echoing chime']
+		]
+	},
+	health: 82,
+	stamina: 238,
+	armor: 106,
+	mastery: {
+		weapon: 8,
+		skill: 7
+	},
+	savepoint: {
+		location: "stormwatch tower",
+		date: Date()
+	}
+},
+{
+	username: "NovaNomadX21",
+	inventory: {
+		equiped: {
+			weapon: "graviton cannon",
+			skill: "wall of flames",
+			consumable: "mana potion",
+			head: "wanderer's hat",
+			torso: "sorcerer's robe",
+			arms: "assassin's gloves",
+			legs: "paladin's greaves",
+			feet: "mage's shoes"
+		},
+		backpack: [
+			['stormwhisper feather', 'timeless hourglass', 'luminous pebble', 'luminous pebble', 'resonating crystal', 'amethyst', 'elemental shard', 'balloon animal', 'verdant blossom', 'frostbound blossom', 'celestial feather', 'shadow cloak', 'mirage cloak', 'lunar lace', 'arcane codex', 'metal slinky', 'thunderstruck relic', 'pyroclasmic ember', 'science fair award', 'ethereal mirror', 'silver locket', 'stormwhisper feather', 'stormwhisper feather', 'rusty spoon', 'sacred sigil', 'radiant prism', 'phoenix feather', 'ethereal prism']
+		]
+	},
+	health: 146,
+	stamina: 142,
+	armor: 100,
+	mastery: {
+		weapon: 7,
+		skill: 7
+	},
+	savepoint: {
+		location: "amethyst atoll",
+		date: Date()
+	}
+},
+{
+	username: "ShadowSaberX88",
+	inventory: {
+		equiped: {
+			weapon: "nova rifle",
+			skill: "moonlit blade",
+			consumable: "heavenly honey",
+			head: "inquisitor's hood",
+			torso: "beastmaster's chestplate",
+			arms: "ancient guardian's gauntlets",
+			legs: "assassin's leggings",
+			feet: "null"
+		},
+		backpack: [
+			['harmony crystal', 'puzzle piece', 'cursed doll', 'enchanted vellum', 'resonating crystal', 'puzzle piece', 'serene lotus petal', 'crystalized tears', 'arcane rune', 'singing seashell', 'starlight veil', 'labyrinthine key', 'stormwhisper feather', 'camera', 'arcane codex', "dreamer's journal", 'bottle of wine', 'nebula medallion', 'serene lotus petal', 'aetherial lens', 'enigmatic scroll', 'illusory lantern', 'galeforce whistle', 'galeforce whistle', 'baseball cap', 'starforged ingot', 'mysterious music box']
+		]
+	},
+	health: 199,
+	stamina: 158,
+	armor: 130,
+	mastery: {
+		weapon: 6,
+		skill: 12
+	},
+	savepoint: {
+		location: "miner's retreat",
+		date: Date()
+	}
+},
+{
+	username: "MysticMatrixMaster",
+	inventory: {
+		equiped: {
+			weapon: "blade of the heavens",
+			skill: "galactic storm",
+			consumable: "starlight essence",
+			head: "monk's hood",
+			torso: "thor's chainmail",
+			arms: "divine paladin's gauntlets",
+			legs: "necromancer's pants",
+			feet: "frigg's greaves"
+		},
+		backpack: [
+			['celestial lantern', 'ensnaring vine', 'harmonic conch shell', 'dreamcatcher amulet', 'celestial lantern', 'crystalline vessel', 'balloon animal', 'starforged ingot', 'half eaten apple', 'half eaten apple', 'cursed doll', 'gilded compass', 'cavernous gemstone']
+		]
+	},
+	health: 225,
+	stamina: 247,
+	armor: 168,
+	mastery: {
+		weapon: 1,
+		skill: 1
+	},
+	savepoint: {
+		location: "crystal spire",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuakeX21",
+	inventory: {
+		equiped: {
+			weapon: "astral sword",
+			skill: "thunderclap",
+			consumable: "radiant elixir",
+			head: "knight-commander's helmet",
+			torso: "thor's chainmail",
+			arms: "divine paladin's gauntlets",
+			legs: "berserker's legguards",
+			feet: "ranger's boots"
+		},
+		backpack: [
+			['sacred sigil', 'half eaten apple', 'harmonic conch shell', 'starforged ingot', 'celestial lantern', 'pyroclasmic ember', 'serene lotus petal', 'ensnaring vine', 'echoing chime', "stargazer's lens", 'celestial ocarina', 'broken compass', 'illusory lantern', 'astral ribbon', 'lunar lace', "writer's notebook", 'broken compass', 'frostblossom seed', 'harmonic conch shell', 'volcanic emberstone', 'serene lotus petal', 'lava bloom seed', 'bottle of wine', 'lively coral', 'enigmatic crest', 'elemental shard', 'celestial ocarina', 'camera', 'timeless hourglass', 'astral ribbon', 'sacred sigil', 'enigmatic scroll', "tiger's eye", 'ethereal mirror', 'puzzle piece', 'tranquil lotus', 'cavernous gemstone', 'puzzle piece', 'starforged ingot', 'rainbow gemstone', 'ethereal prism', 'soulstone trinket', 'astral serpent scale']
+		]
+	},
+	health: 144,
+	stamina: 153,
+	armor: 177,
+	mastery: {
+		weapon: 12,
+		skill: 25
+	},
+	savepoint: {
+		location: "divine citadel",
+		date: Date()
+	}
+},
+{
+	username: "NovaNebulaX88",
+	inventory: {
+		equiped: {
+			weapon: "venomous crossbow",
+			skill: "thunder cage",
+			consumable: "wisdom potion",
+			head: "shadow assassin's mask",
+			torso: "inquisitor's vestment",
+			arms: "null",
+			legs: "knight's greaves",
+			feet: "warrior's boots"
+		},
+		backpack: [
+			['lunar crest', 'crystalized tears', 'lively coral', 'ethereal prism', 'enigmatic crest', 'dreamcatcher amulet', 'rune of resilience']
+		]
+	},
+	health: 97,
+	stamina: 109,
+	armor: 123,
+	mastery: {
+		weapon: 0,
+		skill: 18
+	},
+	savepoint: {
+		location: "stardust grove",
+		date: Date()
+	}
+},
+{
+	username: "NeonNebulaMaster",
+	inventory: {
+		equiped: {
+			weapon: "time-bender's scythe",
+			skill: "venomous strike",
+			consumable: "voidfire potion",
+			head: "The honored one's blindfold",
+			torso: "ranger's cloak",
+			arms: "shadow assassin's gloves",
+			legs: "null",
+			feet: "assassin's boots"
+		},
+		backpack: [
+			['volcanic emberstone', 'sacred sigil', "songbird's feather", 'soothing breeze amulet', 'rune of resilience', 'pyroclasmic ember', 'crystalized aurora', 'cursed doll', 'aetheric beacon', 'ethereal prism', 'stormwhisper feather', 'nebula medallion', 'aetherial lens', 'starlight veil', 'ethereal blossom', 'prismatic crystal', 'cursed mirror', 'puzzle piece', 'mirage pearl', 'enigmatic crest', 'enigmatic crest', 'lunar blossom', 'starlight veil']
+		]
+	},
+	health: 242,
+	stamina: 152,
+	armor: 95,
+	mastery: {
+		weapon: 1,
+		skill: 19
+	},
+	savepoint: {
+		location: "cursed cathedral",
+		date: Date()
+	}
+},
+{
+	username: "CyberSphinxX21",
+	inventory: {
+		equiped: {
+			weapon: "energy blade",
+			skill: "inferno arrow",
+			consumable: "crystalized tea",
+			head: "warrior's helm",
+			torso: "rogue's leather vest",
+			arms: "null",
+			legs: "berserker's legguards",
+			feet: "assassin's boots"
+		},
+		backpack: [
+			['crystalline vessel', 'metal slinky', 'phoenix feather', 'rusty spoon', "dreamweaver's quill", 'lunar blossom', 'ephemeral feather', 'fox tail', 'frostfallen relic', 'penumbral pendant', 'labyrinthine key', 'singing seashell', 'dreamcatcher amulet', 'aetherial lens', 'vortex core', 'sacred sigil', 'penumbral pendant', 'verdant dreamcatcher', 'whispering totem', 'rune of resilience', 'frostfallen relic', "stormbringer's sigil", 'volcanic emberstone', 'shrouded talisman', 'enigmatic figurine', "tidecaller's shell", 'verdant blossom', 'volcanic emberstone', 'science fair award', 'shadow cloak', 'penumbral pendant', 'crystalized aurora']
+		]
+	},
+	health: 196,
+	stamina: 169,
+	armor: 99,
+	mastery: {
+		weapon: 13,
+		skill: 19
+	},
+	savepoint: {
+		location: "haunted harbor",
+		date: Date()
+	}
+},
+{
+	username: "MysticMonolithX77",
+	inventory: {
+		equiped: {
+			weapon: "phoenix bow",
+			skill: "eclipsed doom",
+			consumable: "dreamer's tea",
+			head: "assassin's hood",
+			torso: "druid's robe",
+			arms: "elementalist's cuffs",
+			legs: "paladin's greaves",
+			feet: "wanderer's boots"
+		},
+		backpack: [
+			['luminous pebble', 'enchanted vellum', 'lava bloom seed', 'camera', 'aetheric beacon', 'lunar crest', 'rune of resilience', 'baseball cap', 'astral serpent scale', 'fox tail', 'starforged ingot', 'celestial feather', 'mirage cloak', 'rusty spoon', 'enigmatic crest', 'frostbound blossom', 'radiant feather', 'celestial ocarina', 'mirror of illusion', 'lunar crest', 'nebula medallion', 'prismatic crystal', 'cursed mirror', 'ensnaring vine', 'broken compass', 'shimmering scepter', 'aetherial lens', 'baseball cap', 'crystalline vessel', 'eclipsed crystal', 'broken compass', 'frostblossom seed', 'ember veil', "dreamweaver's quill", 'hand mirror', 'silver locket', 'frostfire lantern', 'mirage cloak', 'emberstone charm', 'verdant blossom', 'enigmatic crest', 'shimmering scepter']
+		]
+	},
+	health: 176,
+	stamina: 57,
+	armor: 118,
+	mastery: {
+		weapon: 8,
+		skill: 29
+	},
+	savepoint: {
+		location: "miner's retreat",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuestX88",
+	inventory: {
+		equiped: {
+			weapon: "frostbite gauntlets",
+			skill: "thunderclap",
+			consumable: "sweet pastry",
+			head: "divine paladin's helm",
+			torso: "null",
+			arms: "mystic seer's gloves",
+			legs: "rogue's trousers",
+			feet: "alchemist's shoes"
+		},
+		backpack: [
+			['elemental shard', 'radiant prism', 'obsidian rune stone', 'crystalline vessel', 'emberroot sapling', 'harmony crystal', 'enigmatic figurine', 'enchanted amulet', 'amethyst', 'cursed mirror', 'mirror of illusion', "stormbringer's sigil", 'crimson phoenix plume', 'cursed mirror', 'resonating crystal', 'singing seashell', 'phoenix feather', 'invisible ink pen', 'prismatic crystal', 'starforged ingot', 'aetheric beacon', 'crystalline vessel', ' rubiks cube', 'enigmatic figurine', 'harmonic conch shell', 'soulstone trinket', 'frostblossom seed', 'echoing chime', 'verdant dreamcatcher']
+		]
+	},
+	health: 177,
+	stamina: 56,
+	armor: 113,
+	mastery: {
+		weapon: 16,
+		skill: 13
+	},
+	savepoint: {
+		location: "ancient tree grove",
+		date: Date()
+	}
+},
+{
+	username: "NebulaNexus77",
+	inventory: {
+		equiped: {
+			weapon: "oceanic trident",
+			skill: "toxic vortex",
+			consumable: "soulstone soup",
+			head: "paladin's helm",
+			torso: "The honored one's jacket",
+			arms: "warrior's bracers",
+			legs: "archer's pants",
+			feet: "divine paladin's boots"
+		},
+		backpack: [
+			['mirage cloak', 'puzzle piece', 'mysterious music box', 'fox tail', 'serenity stone', 'ethereal mirror', 'starlight veil', 'pyroclasmic ember', 'timeless hourglass', 'celestial ocarina', 'enigmatic crest', 'radiant feather', 'shadow cloak', 'lava bloom seed', 'timeless hourglass', 'mirage pearl', 'zephyr gem', 'arcane rune', 'serenity stone', 'echoing chime', 'enigmatic figurine', 'ethereal prism', 'enigmatic scroll', 'sylphic whisper', 'obsidian rune stone', 'balloon animal', 'stormwhisper feather', 'enigmatic figurine', 'celestial feather', 'starlight veil', 'resonating crystal', 'ensnaring vine', 'verdant dreamcatcher', 'nebula medallion', 'aetheric beacon', 'pyroclasmic ember']
+		]
+	},
+	health: 92,
+	stamina: 81,
+	armor: 151,
+	mastery: {
+		weapon: 16,
+		skill: 17
+	},
+	savepoint: {
+		location: "stormwatch tower",
+		date: Date()
+	}
+},
+{
+	username: "ShadowStrikeX21",
+	inventory: {
+		equiped: {
+			weapon: "crimson shuriken",
+			skill: "molten strike",
+			consumable: "iron brew",
+			head: "druid's crown",
+			torso: "assassin's robe",
+			arms: "necromancer's gloves",
+			legs: "druid's leggings",
+			feet: "null"
+		},
+		backpack: [
+			['zephyr gem', 'zephyr gem', 'astral serpent scale', 'puzzle piece', 'verdant blossom', 'mirage cloak', 'shadow cloak', 'labyrinthine key', 'frostfire lantern', 'ethereal blossom', 'crimson phoenix plume', 'mirror of illusion', 'gilded compass', 'lava bloom seed', 'shrouded talisman', 'timeless hourglass', 'starlight veil', 'harmonic conch shell', 'pyroclasmic ember', 'soothing breeze amulet', 'frostfire lantern', "writer's notebook", 'illusory lantern', 'baseball cap', 'crystalized aurora', 'arcane codex', 'mirage pearl', 'pyroclasmic ember', 'emberroot sapling', 'ephemeral feather', 'mirror of illusion', 'illusory lantern', "dreamweaver's quill", ' rubiks cube', 'labyrinthine key', "writer's notebook", 'dreamcatcher amulet']
+		]
+	},
+	health: 102,
+	stamina: 112,
+	armor: 97,
+	mastery: {
+		weapon: 17,
+		skill: 5
+	},
+	savepoint: {
+		location: "igloosia",
+		date: Date()
+	}
+},
+{
+	username: "CyberChampion88",
+	inventory: {
+		equiped: {
+			weapon: "stellar bow",
+			skill: "frostbolt",
+			consumable: "thunderberry pie",
+			head: "mystic seer's hood",
+			torso: "thor's chainmail",
+			arms: "tyr's gauntlets",
+			legs: "mage's leggings",
+			feet: "wanderer's boots"
+		},
+		backpack: [
+			['fox tail', 'crystalized essence', 'cursed doll', 'shimmering scepter', 'invisible ink pen', 'crystalline vessel', 'frostbound blossom', 'frostfallen relic', "tidecaller's shell", 'ephemeral feather', "writer's notebook", 'whispering totem', 'crimson phoenix plume', 'lunar lace', 'balloon animal', 'enchanted amulet', 'sylphic whisper', 'harmony crystal', 'emberroot sapling']
+		]
+	},
+	health: 51,
+	stamina: 151,
+	armor: 190,
+	mastery: {
+		weapon: 17,
+		skill: 23
+	},
+	savepoint: {
+		location: "tempest summit",
+		date: Date()
+	}
+},
+{
+	username: "NovaNinjaX77",
+	inventory: {
+		equiped: {
+			weapon: "lightning spear",
+			skill: "shockwave arrow",
+			consumable: "celestial cheesecake",
+			head: "monk's hood",
+			torso: "berserker's chestguard",
+			arms: "warrior's bracers",
+			legs: "elemental sorcerer's pants",
+			feet: "duelist's shoes"
+		},
+		backpack: [
+			['ruby heartstone', 'emberroot sapling', 'thunderstruck relic', 'aetheric beacon', 'frostblossom seed', 'celestial feather', 'ensnaring vine', 'elemental shard', 'thunderstruck relic']
+		]
+	},
+	health: 183,
+	stamina: 172,
+	armor: 125,
+	mastery: {
+		weapon: 20,
+		skill: 16
+	},
+	savepoint: {
+		location: "stormwatch tower",
+		date: Date()
+	}
+},
+{
+	username: "NeonNexusX21",
+	inventory: {
+		equiped: {
+			weapon: "phoenix bow",
+			skill: "umbral fortress",
+			consumable: "obsidian brew",
+			head: "assassin's hood",
+			torso: "necromancer's cloak",
+			arms: "rogue's fingerless gloves",
+			legs: "sorcerer's pants",
+			feet: "mage's shoes"
+		},
+		backpack: [
+			['crystalized essence', 'verdant dreamcatcher', 'lava bloom seed', 'harmony crystal', 'mirage pearl', 'frostfallen relic', 'thunderstruck relic', 'hand mirror', 'mystic orb', 'luminous pebble', "songbird's feather", 'shadow cloak', 'camera', 'starlight veil', "tiger's eye", 'sacred sigil', 'celestial feather', 'whisperwind elixir', 'lunar blossom', 'arcane codex', 'eclipsed crystal', 'hand mirror', 'whisperwind elixir', 'cavernous gemstone', 'whispering totem', "dreamweaver's quill", "stargazer's lens", 'lunar crest', 'science fair award', 'mirror of illusion', 'serene lotus petal', 'dreamcatcher amulet', 'echoing chime', 'galeforce whistle', 'hand mirror', 'ethereal prism', 'luminous pebble']
+		]
+	},
+	health: 147,
+	stamina: 153,
+	armor: 94,
+	mastery: {
+		weapon: 4,
+		skill: 2
+	},
+	savepoint: {
+		location: "oasis of mirages",
+		date: Date()
+	}
+},
+{
+	username: "MysticMarauderX88",
+	inventory: {
+		equiped: {
+			weapon: "polar spear thrower",
+			skill: "acid rain",
+			consumable: "mystic infusion",
+			head: "druid's crown",
+			torso: "rogue's leather vest",
+			arms: "knight's gauntlets",
+			legs: "beastmaster's leggings",
+			feet: "mystic seer's shoes"
+		},
+		backpack: [
+			['shadow cloak', 'cursed doll', 'metal slinky', 'galeforce whistle', 'lunar lace', 'shadow silk scarf', 'ruby heartstone', "writer's notebook", 'celestial feather', 'broken compass', 'mysterious music box', 'volcanic emberstone', ' rubiks cube', 'astral ribbon', 'prismatic crystal', 'rubber chicken', 'frostblossom seed', 'aetheric beacon', 'aetheric beacon']
+		]
+	},
+	health: 101,
+	stamina: 233,
+	armor: 129,
+	mastery: {
+		weapon: 4,
+		skill: 4
+	},
+	savepoint: {
+		location: "haunted thicket",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuasarMaster",
+	inventory: {
+		equiped: {
+			weapon: "voidcleaver's scythe",
+			skill: "celestial arrow",
+			consumable: "mango sorbet",
+			head: "knight-commander's helmet",
+			torso: "The honored one's jacket",
+			arms: "sorcerer's gloves",
+			legs: "alchemist's leggings",
+			feet: "warrior's boots"
+		},
+		backpack: [
+			['harmonic conch shell', 'enigmatic crest', 'lunar lace', "dreamweaver's quill", 'rusty spoon', 'shimmering scepter', 'resonating crystal', "tidecaller's shell", 'serenity stone', 'enigmatic figurine', 'thunderstruck relic', ' rubiks cube', 'crystalized essence', "dreamer's journal", 'thunderstruck relic', 'mirror of illusion', 'ember veil', "stargazer's lens", 'ethereal mirror', 'pyroclasmic ember', 'serenity stone', 'verdant dreamcatcher', 'serenity stone', 'harmony crystal', 'vortex core', 'metal slinky', 'lunar blossom', 'whisperwind elixir', 'astral ribbon', 'volcanic emberstone', 'illusory lantern', 'pyroclasmic ember', 'bottle of wine', 'elemental shard', 'crystalized essence', 'amethyst', "stormbringer's sigil", 'camera', 'lunar blossom', 'sacred sigil', 'stormwhisper feather', 'starlight veil', 'labyrinthine key']
+		]
+	},
+	health: 80,
+	stamina: 223,
+	armor: 137,
+	mastery: {
+		weapon: 1,
+		skill: 3
+	},
+	savepoint: {
+		location: "mystic glade",
+		date: Date()
+	}
+},
+{
+	username: "CyberSpecterX77",
+	inventory: {
+		equiped: {
+			weapon: "cinderblade",
+			skill: "tectonic trap",
+			consumable: "bison steak",
+			head: "elemental sorcerer's hat",
+			torso: "inquisitor's vestment",
+			arms: "ranger's gloves",
+			legs: "necromancer's pants",
+			feet: "knight's boots"
+		},
+		backpack: [
+			['enigmatic crest', 'starlight veil', 'enigmatic crest', 'broken compass', ' rubiks cube', 'lava bloom seed', 'astral ribbon', 'emberstone charm', 'frostfire lantern', 'phoenix feather', 'ethereal mirror', 'singing seashell', 'frostfire lantern', "dreamer's journal", 'enigmatic figurine', 'crystalized aurora', 'emberstone charm', 'verdant blossom', 'thunderstruck relic', 'luminous pebble', 'radiant feather', 'shadow cloak', "stargazer's lens", 'tranquil lotus', 'volcanic emberstone']
+		]
+	},
+	health: 147,
+	stamina: 125,
+	armor: 129,
+	mastery: {
+		weapon: 21,
+		skill: 4
+	},
+	savepoint: {
+		location: "lunar sanctuary",
+		date: Date()
+	}
+},
+{
+	username: "NovaNebulaX21",
+	inventory: {
+		equiped: {
+			weapon: "azure shuriken",
+			skill: "wind whirl",
+			consumable: "whispers in the wind potion",
+			head: "assassin's hood",
+			torso: "inquisitor's vestment",
+			arms: "assassin's gloves",
+			legs: "knight's greaves",
+			feet: "druid's sandals"
+		},
+		backpack: [
+			['starlight veil', 'half eaten apple', 'crystalline vessel', 'enchanted vellum', 'rubber chicken', 'shadow cloak', 'lunar crest', 'nebula medallion', 'arcane rune', 'mysterious music box', 'starlight veil', 'lunar lace', 'lively coral', 'fox tail', 'moonlit essence', 'lunar blossom', 'soulstone trinket', 'pyroclasmic ember', 'crystalline vessel', 'science fair award', 'celestial lantern', 'lunar lace', 'arcane codex', 'mirage cloak', 'celestial ocarina', 'pyroclasmic ember', 'frostbound blossom', 'sylphic whisper', 'ethereal mirror']
+		]
+	},
+	health: 234,
+	stamina: 105,
+	armor: 117,
+	mastery: {
+		weapon: 26,
+		skill: 19
+	},
+	savepoint: {
+		location: "aurora summit",
+		date: Date()
+	}
+},
+{
+	username: "NeonNomadX88",
+	inventory: {
+		equiped: {
+			weapon: "celestial sword",
+			skill: "stone wave",
+			consumable: "frostbite potion",
+			head: "knight-commander's helmet",
+			torso: "inquisitor's vestment",
+			arms: "assassin's gloves",
+			legs: "archer's pants",
+			feet: "ancient guardian's boots"
+		},
+		backpack: [
+			['mirage cloak', "dreamer's journal", 'vortex core', 'mirror of illusion', 'crystalized aurora', 'hand mirror', 'harmonic conch shell', 'stormwhisper feather', 'ensnaring vine', 'serenity stone', 'resonating crystal', 'dreamcatcher amulet', 'frostfire lantern', 'enchanted vellum', 'zephyr gem', 'crystalline vessel', 'illusory lantern', 'mirage cloak', 'rune of resilience', 'enchanted amulet', 'lively coral', 'lively coral', 'volcanic emberstone', 'eclipsed crystal', 'celestial ocarina', 'astral lantern', 'radiant prism', "songbird's feather", 'ruby heartstone', 'radiant feather', 'galeforce whistle', 'crimson phoenix plume', 'shadow silk scarf', 'cursed doll', 'metal slinky', 'whisperwind elixir', 'starlight veil', 'enchanted amulet', "dreamer's journal", 'lunar blossom', "tiger's eye", 'dreamcatcher amulet', 'singing seashell', 'shadow silk scarf', 'cursed doll', 'vortex core', 'arcane codex', 'metal slinky', 'enigmatic scroll']
+		]
+	},
+	health: 138,
+	stamina: 204,
+	armor: 164,
+	mastery: {
+		weapon: 29,
+		skill: 20
+	},
+	savepoint: {
+		location: "aurora summit",
+		date: Date()
+	}
+},
+{
+	username: "MysticMatrixX21",
+	inventory: {
+		equiped: {
+			weapon: "polar spear thrower",
+			skill: "frozen trap",
+			consumable: "hallowed honey",
+			head: "knight-commander's helmet",
+			torso: "mage's robe",
+			arms: "beastmaster's gauntlets",
+			legs: "wanderer's pants",
+			feet: "null"
+		},
+		backpack: [
+			['penumbral pendant', 'dreamcatcher amulet', 'luminous pebble', 'ruby heartstone', "stormbringer's sigil", 'metal slinky', 'ensnaring vine', 'ember veil', 'rainbow gemstone', 'sylphic whisper', 'astral ribbon', 'crystalized essence', 'starlight veil', 'ethereal prism', 'serenity stone', 'ephemeral feather', 'enigmatic crest', 'half eaten apple']
+		]
+	},
+	health: 249,
+	stamina: 186,
+	armor: 109,
+	mastery: {
+		weapon: 5,
+		skill: 19
+	},
+	savepoint: {
+		location: "haunted thicket",
+		date: Date()
+	}
+},
+{
+	username: "ShadowSphinxMaster",
+	inventory: {
+		equiped: {
+			weapon: "plasma blade",
+			skill: "ice blast",
+			consumable: "timeless elixir",
+			head: "null",
+			torso: "wanderer's coat",
+			arms: "divine paladin's gauntlets",
+			legs: "druid's leggings",
+			feet: "inquisitor's boots"
+		},
+		backpack: [
+			['sylphic whisper', 'ethereal blossom', 'starforged ingot', 'luminous pebble', 'emberroot sapling', 'vortex core', 'silver locket', 'half eaten apple', 'balloon animal', 'aetheric beacon', 'mysterious music box', 'frostfire lantern', 'starlight veil', 'harmony crystal', 'ember veil', 'mirage pearl', 'stormwhisper feather', 'cavernous gemstone', 'verdant blossom', 'crystalized tears', 'vortex core', 'phoenix feather', 'serenity stone', 'ensnaring vine', 'celestial lantern', 'labyrinthine key', 'sylphic whisper', 'sacred sigil', 'lunar crest', 'radiant feather', 'arcane rune', 'ethereal mirror', 'timeless relic', 'celestial lantern', "dreamer's journal", ' rubiks cube', 'obsidian rune stone', 'sacred sigil', 'eclipsed crystal', 'moonlit essence', 'cursed doll', 'solar flare seed', 'luminous pebble', 'rubber chicken', 'verdant dreamcatcher', 'harmony crystal', 'starforged ingot', "stormbringer's sigil"]
+		]
+	},
+	health: 71,
+	stamina: 62,
+	armor: 104,
+	mastery: {
+		weapon: 19,
+		skill: 17
+	},
+	savepoint: {
+		location: "tempest summit",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuintessenceX77",
+	inventory: {
+		equiped: {
+			weapon: "mindflayer's mind staff",
+			skill: "static shock",
+			consumable: "enigmatic brew",
+			head: "sellsword's helm",
+			torso: "duelist's attire",
+			arms: "necromancer's gloves",
+			legs: "archer's pants",
+			feet: "inquisitor's boots"
+		},
+		backpack: [
+			['hand mirror', 'shrouded talisman', 'frostblossom seed', 'enigmatic scroll', "tiger's eye", 'mysterious music box', 'verdant blossom', 'radiant prism', 'enigmatic crest', 'harmonic conch shell', 'cavernous gemstone', 'enchanted amulet']
+		]
+	},
+	health: 143,
+	stamina: 180,
+	armor: 131,
+	mastery: {
+		weapon: 23,
+		skill: 14
+	},
+	savepoint: {
+		location: "mystic glade",
+		date: Date()
+	}
+},
+{
+	username: "CyberCatalystX21",
+	inventory: {
+		equiped: {
+			weapon: "lunar shuriken",
+			skill: "inferno arrow",
+			consumable: "spicy curry",
+			head: "ranger's hood",
+			torso: "assassin's robe",
+			arms: "null",
+			legs: "berserker's legguards",
+			feet: "wanderer's boots"
+		},
+		backpack: [
+			['shadow silk scarf', 'enchanted amulet', "tiger's eye", 'penumbral pendant', 'aetherial lens', 'metal slinky', 'solar flare seed', 'rune of resilience', 'timeless hourglass', 'soulstone trinket', 'enigmatic crest', 'rune of resilience', 'illusory lantern', 'lunar lace', 'frostfallen relic', 'thunderstruck relic', 'obsidian rune stone', 'harmonic conch shell', 'arcane rune', 'crystalized aurora', 'frostfire lantern', 'mirage cloak', ' rubiks cube', 'solar flare seed', 'galeforce whistle', 'elemental shard', 'frostfire lantern', 'mirror of illusion', 'crystalized tears', 'rusty spoon', 'stormwhisper feather', 'timeless relic', 'hand mirror', 'vortex core', 'mirror of illusion', 'volcanic emberstone']
+		]
+	},
+	health: 109,
+	stamina: 148,
+	armor: 87,
+	mastery: {
+		weapon: 14,
+		skill: 10
+	},
+	savepoint: {
+		location: "abyssal palace",
+		date: Date()
+	}
+},
+{
+	username: "NovaNebulaX88",
+	inventory: {
+		equiped: {
+			weapon: "frostblade",
+			skill: "corrosive arrow",
+			consumable: "holy water",
+			head: "inquisitor's hood",
+			torso: "knight's plate armor",
+			arms: "alchemist's gloves",
+			legs: "beastmaster's leggings",
+			feet: "elementalist's sandals"
+		},
+		backpack: [
+			['phoenix feather', 'celestial ocarina', 'fox tail', 'celestial ocarina', 'phoenix feather', 'mirage cloak', 'crystalized essence', 'aetheric beacon', 'crystalized aurora', "stormbringer's sigil", 'puzzle piece', 'rainbow gemstone', 'celestial ocarina', 'moonlit essence', 'luminous pebble', 'whisperwind elixir', 'obsidian rune stone', 'timeless relic', 'cursed doll', 'phoenix feather', 'nebula medallion', 'singing seashell', 'solar flare seed', 'metal slinky', 'ephemeral feather', 'penumbral pendant', 'prismatic crystal', 'mirror of illusion', 'serenity stone', 'enchanted amulet', 'crystalized essence', 'echoing chime', 'mirror of illusion', 'verdant dreamcatcher', 'crystalized aurora', 'lunar crest', 'luminous pebble', "songbird's feather", 'rubber chicken', 'illusory lantern', 'solar flare seed', 'obsidian rune stone']
+		]
+	},
+	health: 59,
+	stamina: 223,
+	armor: 139,
+	mastery: {
+		weapon: 25,
+		skill: 4
+	},
+	savepoint: {
+		location: "boggy haven",
+		date: Date()
+	}
+},
+{
+	username: "NeonNebulaMaster",
+	inventory: {
+		equiped: {
+			weapon: "silver sword",
+			skill: "poisonous whirl",
+			consumable: "endurance potion",
+			head: "knight's helmet",
+			torso: "duelist's attire",
+			arms: "ancient guardian's gauntlets",
+			legs: "inquisitor's leggings",
+			feet: "frigg's greaves"
+		},
+		backpack: [
+			['shadow cloak', 'crystalized essence', 'ethereal blossom', 'shimmering scepter', "dreamer's journal", 'shadow silk scarf', 'crystalized aurora', 'lunar lace', 'shadow silk scarf', 'ember veil', 'enigmatic figurine', ' rubiks cube', 'hand mirror', 'shimmering scepter', "tiger's eye", 'half eaten apple', 'rusty spoon', 'frostbound blossom', 'ethereal blossom', 'astral serpent scale', 'arcane codex', 'frostfallen relic', 'volcanic emberstone', 'crystalized aurora', 'ember veil', 'ethereal mirror', 'crystalized essence', 'cursed doll', 'silver locket', "tiger's eye", "stormbringer's sigil", 'aetherial lens', 'crimson phoenix plume', ' rubiks cube', 'serene lotus petal', 'fox tail', 'baseball cap', 'ember veil', 'shrouded talisman', 'ruby heartstone', 'dreamcatcher amulet', 'labyrinthine key', 'frostfallen relic', 'obsidian rune stone', 'resonating crystal', 'crystalized aurora', 'elemental shard', 'verdant dreamcatcher']
+		]
+	},
+	health: 234,
+	stamina: 112,
+	armor: 149,
+	mastery: {
+		weapon: 14,
+		skill: 3
+	},
+	savepoint: {
+		location: "ember summit",
+		date: Date()
+	}
+},
+{
+	username: "MysticMonarchX77",
+	inventory: {
+		equiped: {
+			weapon: "thorned whip",
+			skill: "poisonous whirl",
+			consumable: "mystic muffin",
+			head: "The honored one's blindfold",
+			torso: "alchemist's robe",
+			arms: "wanderer's gloves",
+			legs: "warrior's legplates",
+			feet: "archer's boots"
+		},
+		backpack: [
+			['astral ribbon', 'arcane codex', 'penumbral pendant', 'vortex core', 'phoenix feather']
+		]
+	},
+	health: 85,
+	stamina: 93,
+	armor: 137,
+	mastery: {
+		weapon: 24,
+		skill: 30
+	},
+	savepoint: {
+		location: "celestial junction",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuasarX88",
+	inventory: {
+		equiped: {
+			weapon: "nebula wand",
+			skill: "plague storm",
+			consumable: "ironskin elixir",
+			head: "shadow assassin's mask",
+			torso: "archer's tunic",
+			arms: "divine paladin's gauntlets",
+			legs: "beastmaster's leggings",
+			feet: "wanderer's boots"
+		},
+		backpack: [
+			['starforged ingot', 'volcanic emberstone', 'soulstone trinket', 'astral lantern', 'crystalized tears', 'enigmatic scroll', 'frostfallen relic', 'volcanic emberstone', "tidecaller's shell", 'puzzle piece', 'soothing breeze amulet', 'obsidian rune stone', 'crystalline vessel', 'camera', 'celestial feather', 'sylphic whisper', 'singing seashell', 'starlight veil', 'lava bloom seed', 'rune of resilience', 'astral serpent scale', 'emberstone charm', 'puzzle piece', 'half eaten apple', 'frostblossom seed', 'rubber chicken', 'mirror of illusion', 'bottle of wine', 'starlight veil', 'obsidian rune stone', 'shadow silk scarf', 'tranquil lotus', 'moonlit essence', 'rainbow gemstone', "dreamer's journal", 'half eaten apple', 'volcanic emberstone', 'moonlit essence', 'cursed mirror', 'science fair award', 'phoenix feather', 'luminous pebble', 'ethereal prism', 'crimson phoenix plume', 'frostbound blossom', 'echoing chime', "tidecaller's shell", 'crimson phoenix plume']
+		]
+	},
+	health: 51,
+	stamina: 58,
+	armor: 147,
+	mastery: {
+		weapon: 13,
+		skill: 30
+	},
+	savepoint: {
+		location: "celestial junction",
+		date: Date()
+	}
+},
+{
+	username: "NebulaNemesis77",
+	inventory: {
+		equiped: {
+			weapon: "spirit bow",
+			skill: "hardening lava",
+			consumable: "energy drink",
+			head: "duelist's hat",
+			torso: "necromancer's cloak",
+			arms: "sorcerer's gloves",
+			legs: "duelist's trousers",
+			feet: "ancient guardian's boots"
+		},
+		backpack: [
+			['eclipsed crystal', 'ephemeral feather', 'ethereal mirror', 'bottle of wine', 'baseball cap', 'eclipsed crystal', 'crystalized essence', 'cursed doll', 'emberroot sapling', 'vortex core', "dreamweaver's quill", 'moonlit essence', 'verdant blossom']
+		]
+	},
+	health: 215,
+	stamina: 140,
+	armor: 133,
+	mastery: {
+		weapon: 15,
+		skill: 1
+	},
+	savepoint: {
+		location: "divine citadel",
+		date: Date()
+	}
+},
+{
+	username: "CyberShadowX21",
+	inventory: {
+		equiped: {
+			weapon: "starfall wand",
+			skill: "shadow veil",
+			consumable: "voidfire potion",
+			head: "ranger's hood",
+			torso: "elemental sorcerer's robe",
+			arms: "paladin's gauntlets",
+			legs: "duelist's trousers",
+			feet: "assassin's boots"
+		},
+		backpack: [
+			['sylphic whisper', 'eclipsed crystal', 'rune of resilience', 'nebula medallion', 'stormwhisper feather', 'astral serpent scale', 'mirror of illusion', 'harmony crystal', 'celestial feather', 'ephemeral feather']
+		]
+	},
+	health: 242,
+	stamina: 61,
+	armor: 111,
+	mastery: {
+		weapon: 27,
+		skill: 7
+	},
+	savepoint: {
+		location: "ancient tree grove",
+		date: Date()
+	}
+},
+{
+	username: "NovaNexusX88",
+	inventory: {
+		equiped: {
+			weapon: "time-bender's scythe",
+			skill: "venomous storm",
+			consumable: "moonlight dew",
+			head: "knight-commander's helmet",
+			torso: "monk's robe",
+			arms: "sorcerer's gloves",
+			legs: "druid's leggings",
+			feet: "paladin's boots"
+		},
+		backpack: [
+			['crimson phoenix plume', 'aetherial lens', 'harmonic conch shell', 'sacred sigil', 'lunar crest', 'enigmatic crest', 'harmony crystal', 'ensnaring vine', 'prismatic crystal', 'aetherial lens', 'timeless hourglass', ' rubiks cube', 'echoing chime', 'emberroot sapling', "dreamweaver's quill", "songbird's feather", 'starforged ingot', 'mysterious music box', 'lunar crest']
+		]
+	},
+	health: 92,
+	stamina: 228,
+	armor: 133,
+	mastery: {
+		weapon: 7,
+		skill: 27
+	},
+	savepoint: {
+		location: "feywood forest",
+		date: Date()
+	}
+},
+{
+	username: "NeonNovaX77",
+	inventory: {
+		equiped: {
+			weapon: "thorned whip",
+			skill: "electro trap",
+			consumable: "echoing elixir",
+			head: "elementalist's crown",
+			torso: "elemental sorcerer's robe",
+			arms: "knight-commander's gauntlets",
+			legs: "mage's leggings",
+			feet: "alchemist's shoes"
+		},
+		backpack: [
+			['mysterious music box', 'invisible ink pen', "songbird's feather", 'mirage pearl', 'frostfire lantern', 'mysterious music box', 'half eaten apple', 'silver locket', 'singing seashell', 'rune of resilience', 'enigmatic figurine', 'ethereal prism', 'invisible ink pen', 'celestial lantern', 'mirror of illusion', 'lunar crest', 'radiant feather', 'rusty spoon', 'penumbral pendant', 'astral serpent scale', 'aetherial lens', 'frostfallen relic', 'shadow silk scarf', 'soulstone trinket', "dreamweaver's quill", 'invisible ink pen', 'pyroclasmic ember', 'lively coral', 'rune of resilience', 'ephemeral feather', 'baseball cap', 'enigmatic scroll', 'hand mirror', 'resonating crystal', 'amethyst', 'shadow silk scarf', 'lively coral', 'resonating crystal', 'invisible ink pen', "writer's notebook"]
+		]
+	},
+	health: 163,
+	stamina: 232,
+	armor: 120,
+	mastery: {
+		weapon: 30,
+		skill: 1
+	},
+	savepoint: {
+		location: "aurora summit",
+		date: Date()
+	}
+},
+{
+	username: "MysticMysticX21",
+	inventory: {
+		equiped: {
+			weapon: "time-bender's scythe",
+			skill: "shockwave arrow",
+			consumable: "mango sorbet",
+			head: "druid's crown",
+			torso: "necromancer's cloak",
+			arms: "tyr's gauntlets",
+			legs: "berserker's legguards",
+			feet: "necromancer's boots"
+		},
+		backpack: [
+			[]
+		]
+	},
+	health: 224,
+	stamina: 206,
+	armor: 153,
+	mastery: {
+		weapon: 12,
+		skill: 19
+	},
+	savepoint: {
+		location: "subterranean citadel",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuintessenceX88",
+	inventory: {
+		equiped: {
+			weapon: "ethereal rapier",
+			skill: "astral barrier",
+			consumable: "shadowsilk tea",
+			head: "necromancer's hood",
+			torso: "sellsword's chestguard",
+			arms: "ancient guardian's gauntlets",
+			legs: "sellsword's legguards",
+			feet: "The honored one's boots"
+		},
+		backpack: [
+			['lunar crest', 'aetherial lens', 'volcanic emberstone', 'fox tail', 'illusory lantern', 'pyroclasmic ember', 'half eaten apple', 'frostblossom seed', 'fox tail', 'soothing breeze amulet', 'sacred sigil', 'broken compass', 'celestial lantern', 'mysterious music box', ' rubiks cube', 'shimmering scepter', 'prismatic crystal', 'pyroclasmic ember', 'penumbral pendant', 'prismatic crystal', 'phoenix feather', 'emberstone charm', "dreamweaver's quill", 'singing seashell', 'labyrinthine key', 'soothing breeze amulet', 'obsidian rune stone', 'eclipsed crystal', 'lunar blossom', 'arcane rune', 'eclipsed crystal', 'crimson phoenix plume', 'illusory lantern', 'frostbound blossom', ' rubiks cube', 'silver locket', 'soothing breeze amulet', 'frostblossom seed', 'rainbow gemstone', 'invisible ink pen', 'cursed doll', 'ephemeral feather', 'rune of resilience', 'volcanic emberstone', 'gilded compass']
+		]
+	},
+	health: 113,
+	stamina: 90,
+	armor: 152,
+	mastery: {
+		weapon: 29,
+		skill: 13
+	},
+	savepoint: {
+		location: "stardust grove",
+		date: Date()
+	}
+},
+{
+	username: "CyberCatalyst77",
+	inventory: {
+		equiped: {
+			weapon: "skyward bow",
+			skill: "tempest surge",
+			consumable: "sunflower tea",
+			head: "knight-commander's helmet",
+			torso: "The honored one's jacket",
+			arms: "mystic seer's gloves",
+			legs: "yggdrasil's leggings",
+			feet: "paladin's boots"
+		},
+		backpack: [
+			["stargazer's lens", 'amethyst', 'science fair award', 'verdant dreamcatcher', 'frostfire lantern', 'obsidian rune stone', "stormbringer's sigil", 'radiant feather', "songbird's feather", 'mirage cloak', 'tranquil lotus', 'fox tail', 'prismatic crystal', 'verdant dreamcatcher', 'balloon animal', 'mysterious music box', 'timeless hourglass', 'bottle of wine', 'baseball cap', 'aetherial lens', 'serenity stone', 'labyrinthine key', 'resonating crystal', 'shadow silk scarf', 'enchanted vellum', 'thunderstruck relic', 'rune of resilience', 'ethereal prism', 'phoenix feather', 'hand mirror', 'pyroclasmic ember', "tidecaller's shell", 'harmonic conch shell', 'crystalized aurora', 'gilded compass', 'galeforce whistle', 'serene lotus petal', 'ruby heartstone']
+		]
+	},
+	health: 110,
+	stamina: 62,
+	armor: 168,
+	mastery: {
+		weapon: 15,
+		skill: 16
+	},
+	savepoint: {
+		location: "desolate plaza",
+		date: Date()
+	}
+},
+{
+	username: "NovaNomadX21",
+	inventory: {
+		equiped: {
+			weapon: "shockwave hammer",
+			skill: "noxious apocalypse",
+			consumable: "eternal soup",
+			head: "necromancer's hood",
+			torso: "rogue's leather vest",
+			arms: "alchemist's gloves",
+			legs: "elemental sorcerer's pants",
+			feet: "assassin's boots"
+		},
+		backpack: [
+			['eclipsed crystal', 'penumbral pendant', 'gilded compass', 'enchanted vellum', "tidecaller's shell", 'rusty spoon', "stormbringer's sigil", 'phoenix feather', 'broken compass', 'mirror of illusion', 'luminous pebble', 'galeforce whistle', 'mirage pearl', 'science fair award', 'aetheric beacon', 'ephemeral feather', 'hand mirror', 'crystalline vessel', "stargazer's lens", 'crystalized essence', 'emberroot sapling', "writer's notebook", 'lunar lace', 'nebula medallion', 'serene lotus petal', 'hand mirror', 'tranquil lotus', 'thunderstruck relic', 'zephyr gem', 'crystalized essence', 'sacred sigil', 'solar flare seed', ' rubiks cube', 'enchanted vellum']
+		]
+	},
+	health: 68,
+	stamina: 204,
+	armor: 113,
+	mastery: {
+		weapon: 14,
+		skill: 17
+	},
+	savepoint: {
+		location: "oasis of mirages",
+		date: Date()
+	}
+},
+{
+	username: "ShadowSaberX88",
+	inventory: {
+		equiped: {
+			weapon: "staff of chaos",
+			skill: "noxious apocalypse",
+			consumable: "adrenaline",
+			head: "duelist's hat",
+			torso: "The honored one's jacket",
+			arms: "shadow assassin's gloves",
+			legs: "inquisitor's leggings",
+			feet: "rogue's ankle boots"
+		},
+		backpack: [
+			['vortex core', 'aetheric beacon', 'soulstone trinket', ' rubiks cube', "songbird's feather", 'fox tail', "tiger's eye", 'harmonic conch shell', 'shrouded talisman', 'rubber chicken', 'tranquil lotus', 'singing seashell', 'mirage pearl', 'crystalline vessel', 'radiant feather', 'radiant feather', 'science fair award', "tiger's eye", 'tranquil lotus', 'emberstone charm', 'labyrinthine key', 'sylphic whisper', 'shimmering scepter', "dreamer's journal", 'ruby heartstone']
+		]
+	},
+	health: 143,
+	stamina: 222,
+	armor: 123,
+	mastery: {
+		weapon: 16,
+		skill: 10
+	},
+	savepoint: {
+		location: "frozen fortress",
+		date: Date()
+	}
+},
+{
+	username: "MysticMatrixMaster",
+	inventory: {
+		equiped: {
+			weapon: "poisoned crossbow",
+			skill: "tectonic trap",
+			consumable: "adrenaline",
+			head: "mage's hat",
+			torso: "inquisitor's vestment",
+			arms: "mystic seer's gloves",
+			legs: "warrior's legplates",
+			feet: "inquisitor's boots"
+		},
+		backpack: [
+			['rune of resilience', 'mirage pearl', 'cavernous gemstone', 'lunar blossom', 'radiant prism', 'sacred sigil', 'crystalized essence', 'lively coral', 'mysterious music box', 'sacred sigil', 'aetheric beacon', 'mystic orb', 'timeless relic', 'celestial feather', 'galeforce whistle', 'thunderstruck relic', 'lunar crest', 'dreamcatcher amulet', 'timeless hourglass', 'celestial lantern', 'solar flare seed', 'eclipsed crystal', 'cavernous gemstone', 'shimmering scepter', "tiger's eye", 'shadow cloak']
+		]
+	},
+	health: 144,
+	stamina: 146,
+	armor: 138,
+	mastery: {
+		weapon: 3,
+		skill: 12
+	},
+	savepoint: {
+		location: "celestial junction",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuakeX21",
+	inventory: {
+		equiped: {
+			weapon: "abyssal cleaver scythe",
+			skill: "shadow veil",
+			consumable: "serpent scale potion",
+			head: "duelist's hat",
+			torso: "elementalist's robe",
+			arms: "assassin's gloves",
+			legs: "berserker's legguards",
+			feet: "warrior's boots"
+		},
+		backpack: [
+			['labyrinthine key', 'galeforce whistle', 'soulstone trinket', 'gilded compass', 'shadow silk scarf', 'frostfallen relic', 'crystalized essence', 'tranquil lotus', 'verdant blossom', 'solar flare seed', 'rusty spoon', 'frostfallen relic', 'baseball cap', 'soulstone trinket', 'rubber chicken', 'echoing chime', 'soothing breeze amulet', 'zephyr gem', 'rainbow gemstone', 'crystalized essence', "dreamweaver's quill", 'astral lantern', 'silver locket', 'verdant dreamcatcher', 'dreamcatcher amulet', 'baseball cap', 'verdant blossom', 'penumbral pendant', 'ensnaring vine', 'astral serpent scale', "tiger's eye", "stormbringer's sigil", ' rubiks cube', 'crystalized aurora']
+		]
+	},
+	health: 223,
+	stamina: 54,
+	armor: 107,
+	mastery: {
+		weapon: 16,
+		skill: 15
+	},
+	savepoint: {
+		location: "subterranean citadel",
+		date: Date()
+	}
+},
+{
+	username: "NovaNebulaX88",
+	inventory: {
+		equiped: {
+			weapon: "voltaic bow",
+			skill: "earthslide",
+			consumable: "voidwalker potion",
+			head: "necromancer's hood",
+			torso: "sellsword's chestguard",
+			arms: "warrior's bracers",
+			legs: "yggdrasil's leggings",
+			feet: "druid's sandals"
+		},
+		backpack: [
+			['lunar lace', 'celestial feather', 'obsidian rune stone', 'mirror of illusion', "tidecaller's shell", 'vortex core', 'serene lotus petal', "writer's notebook", 'sylphic whisper', 'zephyr gem', 'cursed mirror', 'obsidian rune stone', 'astral ribbon', 'ethereal blossom', 'half eaten apple', 'timeless relic', 'mirage cloak', 'ethereal prism', 'frostfire lantern', 'moonlit essence', 'celestial feather', 'celestial ocarina', 'tranquil lotus', 'frostblossom seed', 'baseball cap', 'emberstone charm', 'enigmatic scroll', 'rainbow gemstone', 'ruby heartstone', 'ethereal mirror', 'starlight veil', 'hand mirror', 'sacred sigil', 'lunar lace', 'bottle of wine', 'radiant prism', "tiger's eye", 'rune of resilience', 'starlight veil', 'invisible ink pen', 'soothing breeze amulet', 'mysterious music box', 'mystic orb', 'serene lotus petal']
+		]
+	},
+	health: 232,
+	stamina: 59,
+	armor: 147,
+	mastery: {
+		weapon: 25,
+		skill: 19
+	},
+	savepoint: {
+		location: "ancient tree grove",
+		date: Date()
+	}
+},
+{
+	username: "NeonNebulaMaster",
+	inventory: {
+		equiped: {
+			weapon: "heavenly saber",
+			skill: "corrosive arrow",
+			consumable: "sparkling cider",
+			head: "knight's helmet",
+			torso: "sorcerer's robe",
+			arms: "sorcerer's gloves",
+			legs: "wanderer's pants",
+			feet: "monk's sandals"
+		},
+		backpack: [
+			["dreamer's journal", 'fox tail', 'frostbound blossom', 'phoenix feather', 'penumbral pendant', 'crystalized aurora', "songbird's feather", 'bottle of wine', 'whispering totem', 'radiant feather', 'ember veil', 'enchanted amulet', 'lunar lace', 'cursed mirror', 'celestial ocarina', 'moonlit essence']
+		]
+	},
+	health: 54,
+	stamina: 229,
+	armor: 113,
+	mastery: {
+		weapon: 9,
+		skill: 19
+	},
+	savepoint: {
+		location: "miner's retreat",
+		date: Date()
+	}
+},
+{
+	username: "CyberSphinxX21",
+	inventory: {
+		equiped: {
+			weapon: "abyssal cleaver scythe",
+			skill: "toxic leap",
+			consumable: "ruby red potion",
+			head: "The honored one's blindfold",
+			torso: "duelist's attire",
+			arms: "duelist's gloves",
+			legs: "beastmaster's leggings",
+			feet: "monk's sandals"
+		},
+		backpack: [
+			['rainbow gemstone', 'harmonic conch shell', 'crystalized essence', 'broken compass', 'balloon animal', 'thunderstruck relic', 'enchanted vellum', 'verdant dreamcatcher', 'rainbow gemstone', 'volcanic emberstone', 'illusory lantern', 'solar flare seed', "stargazer's lens", 'cursed doll', 'frostfire lantern', 'obsidian rune stone', 'emberroot sapling', "writer's notebook", 'elemental shard', 'silver locket', 'ensnaring vine', 'verdant dreamcatcher', 'pyroclasmic ember', 'illusory lantern', 'shimmering scepter', 'emberstone charm', 'frostbound blossom', 'ruby heartstone', 'aetheric beacon', 'elemental shard', 'ruby heartstone', 'ensnaring vine', 'celestial ocarina', 'timeless hourglass', 'ethereal blossom', 'singing seashell', 'puzzle piece', 'echoing chime', 'starforged ingot', 'crystalized aurora', 'gilded compass', 'crimson phoenix plume', 'shimmering scepter', "dreamer's journal", 'shimmering scepter', 'invisible ink pen', "stormbringer's sigil", 'lunar blossom']
+		]
+	},
+	health: 53,
+	stamina: 83,
+	armor: 138,
+	mastery: {
+		weapon: 25,
+		skill: 10
+	},
+	savepoint: {
+		location: "aurora summit",
+		date: Date()
+	}
+},
+{
+	username: "MysticMonolithX77",
+	inventory: {
+		equiped: {
+			weapon: "obsidian scythe",
+			skill: "electrified arrow",
+			consumable: "ironskin elixir",
+			head: "knight-commander's helmet",
+			torso: "null",
+			arms: "sorcerer's gloves",
+			legs: "druid's leggings",
+			feet: "shadow assassin's boots"
+		},
+		backpack: [
+			['puzzle piece', 'illusory lantern', 'radiant feather', 'silver locket', 'radiant prism', "stargazer's lens", 'astral ribbon', 'fox tail', 'harmony crystal', 'rune of resilience', 'cursed doll', 'serene lotus petal', 'dreamcatcher amulet', 'rune of resilience', 'lunar blossom', 'astral ribbon', 'science fair award', 'invisible ink pen', 'crystalized tears', 'rusty spoon', "stargazer's lens", 'emberstone charm', 'broken compass', 'zephyr gem']
+		]
+	},
+	health: 189,
+	stamina: 52,
+	armor: 101,
+	mastery: {
+		weapon: 12,
+		skill: 19
+	},
+	savepoint: {
+		location: "oasis outpost",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuestX88",
+	inventory: {
+		equiped: {
+			weapon: "crimson shuriken",
+			skill: "venomous burst",
+			consumable: "speed potion",
+			head: "inquisitor's hood",
+			torso: "ranger's cloak",
+			arms: "wanderer's gloves",
+			legs: "elementalist's leggings",
+			feet: "elemental sorcerer's shoes"
+		},
+		backpack: [
+			['elemental shard', 'timeless relic', 'soulstone trinket', 'sylphic whisper', 'harmonic conch shell', 'resonating crystal']
+		]
+	},
+	health: 162,
+	stamina: 229,
+	armor: 115,
+	mastery: {
+		weapon: 8,
+		skill: 16
+	},
+	savepoint: {
+		location: "oasis of mirages",
+		date: Date()
+	}
+},
+{
+	username: "NebulaNexus77",
+	inventory: {
+		equiped: {
+			weapon: "thorned whip",
+			skill: "solar flare",
+			consumable: "earthroot soup",
+			head: "archer's hat",
+			torso: "wanderer's coat",
+			arms: "ranger's gloves",
+			legs: "yggdrasil's leggings",
+			feet: "rogue's ankle boots"
+		},
+		backpack: [
+			['radiant prism', 'astral serpent scale', 'prismatic crystal', 'tranquil lotus', 'ethereal mirror', 'crystalized tears', 'half eaten apple', 'enchanted amulet', 'mirror of illusion', 'starlight veil', 'crystalized tears', 'lunar lace', 'mystic orb', 'serenity stone', 'emberstone charm', 'starlight veil', 'bottle of wine', 'camera', 'rainbow gemstone', 'shimmering scepter', 'mirage cloak', 'balloon animal', 'broken compass', 'starlight veil', 'soothing breeze amulet', 'tranquil lotus', 'resonating crystal', 'crystalized tears', 'metal slinky', 'radiant feather', 'luminous pebble', 'metal slinky', 'rusty spoon', 'emberstone charm', 'arcane codex', 'singing seashell', 'enigmatic crest']
+		]
+	},
+	health: 78,
+	stamina: 83,
+	armor: 127,
+	mastery: {
+		weapon: 3,
+		skill: 10
+	},
+	savepoint: {
+		location: "oasis of mirages",
+		date: Date()
+	}
+},
+{
+	username: "ShadowStrikeX21",
+	inventory: {
+		equiped: {
+			weapon: "mindflayer's mind staff",
+			skill: "starfall",
+			consumable: "thunderstorm brew",
+			head: "berserker's mask",
+			torso: "necromancer's cloak",
+			arms: "sorcerer's gloves",
+			legs: "druid's leggings",
+			feet: "monk's sandals"
+		},
+		backpack: [
+			['mirage cloak', 'celestial feather', 'shadow silk scarf', "stormbringer's sigil", 'soothing breeze amulet', 'vortex core', 'enigmatic crest', 'echoing chime', 'science fair award', 'rainbow gemstone', 'harmony crystal', 'frostfire lantern', 'dreamcatcher amulet']
+		]
+	},
+	health: 113,
+	stamina: 187,
+	armor: 120,
+	mastery: {
+		weapon: 20,
+		skill: 17
+	},
+	savepoint: {
+		location: "inferno citadel",
+		date: Date()
+	}
+},
+{
+	username: "CyberChampion88",
+	inventory: {
+		equiped: {
+			weapon: "phantom blade",
+			skill: "frost nova",
+			consumable: "sunfire elixir",
+			head: "sellsword's helm",
+			torso: "inquisitor's vestment",
+			arms: "knight-commander's gauntlets",
+			legs: "mystic seer's pants",
+			feet: "knight-commander's boots"
+		},
+		backpack: [
+			['celestial lantern', ' rubiks cube', 'dreamcatcher amulet', 'serenity stone', 'volcanic emberstone', 'enigmatic crest', 'vortex core', 'lunar blossom', 'astral lantern', 'sylphic whisper', 'timeless hourglass', "stormbringer's sigil", 'stormwhisper feather', 'verdant blossom', 'soulstone trinket', 'starforged ingot', 'amethyst', 'invisible ink pen', 'cursed doll', 'mystic orb', 'ethereal mirror', 'hand mirror', 'ember veil', 'celestial feather', 'metal slinky', 'soothing breeze amulet', 'frostbound blossom', 'frostfallen relic', 'singing seashell', 'enchanted amulet', 'rune of resilience', 'harmonic conch shell', 'lunar crest', 'ethereal blossom', 'moonlit essence', 'whisperwind elixir', 'aetheric beacon', 'celestial ocarina', 'prismatic crystal', 'shrouded talisman', 'moonlit essence', 'enchanted amulet', 'frostbound blossom', 'rainbow gemstone', 'timeless hourglass', 'soulstone trinket', 'gilded compass']
+		]
+	},
+	health: 245,
+	stamina: 165,
+	armor: 167,
+	mastery: {
+		weapon: 2,
+		skill: 14
+	},
+	savepoint: {
+		location: "volted citadel",
+		date: Date()
+	}
+},
+{
+	username: "NovaNinjaX77",
+	inventory: {
+		equiped: {
+			weapon: "galactic wand",
+			skill: "galactic storm",
+			consumable: "sparkling water",
+			head: "inquisitor's hood",
+			torso: "knight's plate armor",
+			arms: "archer's gloves",
+			legs: "duelist's trousers",
+			feet: "ranger's boots"
+		},
+		backpack: [
+			['frostfallen relic', "stargazer's lens", 'harmony crystal', 'shadow cloak', 'tranquil lotus', 'harmony crystal', 'arcane rune', 'frostbound blossom', 'fox tail', 'shrouded talisman', 'aetheric beacon', 'baseball cap', 'ethereal blossom', 'celestial ocarina', 'lively coral', 'enigmatic figurine', 'celestial ocarina', 'lunar lace', 'whispering totem', 'silver locket', 'crystalized aurora', 'silver locket', "tiger's eye", 'phoenix feather', 'nebula medallion', 'ethereal blossom', 'timeless hourglass', 'mirror of illusion', 'phoenix feather', 'sacred sigil', 'puzzle piece', 'puzzle piece', 'lively coral', 'prismatic crystal', 'shrouded talisman', 'celestial ocarina', "dreamweaver's quill", "stormbringer's sigil", 'solar flare seed', 'cavernous gemstone']
+		]
+	},
+	health: 132,
+	stamina: 132,
+	armor: 130,
+	mastery: {
+		weapon: 17,
+		skill: 6
+	},
+	savepoint: {
+		location: "aurora summit",
+		date: Date()
+	}
+},
+{
+	username: "NeonNexusX21",
+	inventory: {
+		equiped: {
+			weapon: "dark matter scythe",
+			skill: "arctic blast",
+			consumable: "energy drink",
+			head: "duelist's hat",
+			torso: "necromancer's cloak",
+			arms: "alchemist's gloves",
+			legs: "sellsword's legguards",
+			feet: "divine paladin's boots"
+		},
+		backpack: [
+			['ensnaring vine', 'aetheric beacon', 'rainbow gemstone', 'ember veil', 'mirage pearl', 'cursed mirror', 'frostblossom seed', 'arcane codex', 'arcane codex', 'lava bloom seed', 'crystalized aurora', 'penumbral pendant', 'enchanted amulet', 'half eaten apple', 'arcane rune', 'starlight veil', 'astral serpent scale', 'cursed doll', 'ruby heartstone', "songbird's feather", 'frostfallen relic', 'nebula medallion', 'phoenix feather', 'aetherial lens', 'obsidian rune stone', 'serenity stone', 'enigmatic figurine', 'serene lotus petal', 'shrouded talisman', 'whispering totem', 'mirage pearl', 'crystalline vessel', 'astral lantern', "stargazer's lens", 'prismatic crystal', 'starlight veil', 'nebula medallion', 'celestial feather', "stormbringer's sigil", 'crystalized tears', 'broken compass']
+		]
+	},
+	health: 167,
+	stamina: 62,
+	armor: 144,
+	mastery: {
+		weapon: 15,
+		skill: 21
+	},
+	savepoint: {
+		location: "oasis of mirages",
+		date: Date()
+	}
+},
+{
+	username: "MysticMarauderX88",
+	inventory: {
+		equiped: {
+			weapon: "mindflayer's mind staff",
+			skill: "static shock",
+			consumable: "berry explosion elixir",
+			head: "null",
+			torso: "shadow assassin's cloak",
+			arms: "inquisitor's cuffs",
+			legs: "The honored one's pants",
+			feet: "rogue's ankle boots"
+		},
+		backpack: [
+			[' rubiks cube', 'soothing breeze amulet', "tidecaller's shell", 'whisperwind elixir', 'science fair award', 'zephyr gem', 'aetheric beacon', 'whisperwind elixir', 'enigmatic figurine', 'sacred sigil', 'lively coral', "stargazer's lens", 'lava bloom seed', 'celestial feather', 'lively coral', "tidecaller's shell", 'crystalized essence', 'gilded compass', 'labyrinthine key', "tiger's eye", 'serene lotus petal', 'celestial ocarina', 'mysterious music box', 'baseball cap', 'soulstone trinket', 'silver locket', 'labyrinthine key', 'luminous pebble', "stormbringer's sigil", 'whispering totem', 'timeless relic', 'celestial ocarina', 'hand mirror', 'soothing breeze amulet', 'moonlit essence', 'baseball cap', 'soulstone trinket', 'rusty spoon']
+		]
+	},
+	health: 195,
+	stamina: 209,
+	armor: 104,
+	mastery: {
+		weapon: 22,
+		skill: 17
+	},
+	savepoint: {
+		location: "oasis outpost",
+		date: Date()
+	}
+},
+{
+	username: "QuantumQuasarMaster",
+	inventory: {
+		equiped: {
+			weapon: "chaos orb wand",
+			skill: "lightning nova",
+			consumable: "elixir of vitality",
+			head: "inquisitor's hood",
+			torso: "The honored one's jacket",
+			arms: "elemental sorcerer's gloves",
+			legs: "mystic seer's pants",
+			feet: "mystic seer's shoes"
+		},
+		backpack: [
+			['starforged ingot', 'penumbral pendant', 'astral serpent scale', 'frostblossom seed', 'crystalline vessel', 'ethereal prism', 'frostfallen relic', 'serene lotus petal', 'galeforce whistle', 'arcane rune', "tiger's eye", 'puzzle piece', 'ember veil', 'silver locket', 'puzzle piece', "stargazer's lens", 'lunar blossom', 'amethyst']
+		]
+	},
+	health: 61,
+	stamina: 145,
+	armor: 151,
+	mastery: {
+		weapon: 24,
+		skill: 25
+	},
+	savepoint: {
+		location: "tempest summit",
+		date: Date()
+	}
+},
